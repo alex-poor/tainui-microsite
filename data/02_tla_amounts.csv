@@ -1,0 +1,469 @@
+tla,hardship_type,quarter,amount
+Auckland Super City,Electricity Assistance,Mar 2023,972042.15
+Auckland Super City,Electricity Assistance,Jun 2023,1124852.11
+Auckland Super City,Electricity Assistance,Sep 2023,1820215.88
+Auckland Super City,Electricity Assistance,Dec 2023,1649196.2
+Auckland Super City,Electricity Assistance,Mar 2024,1297610.25
+Auckland Super City,Electricity Assistance,Jun 2024,1002134.92
+Auckland Super City,Electricity Assistance,Sep 2024,1535289.15
+Auckland Super City,Electricity Assistance,Dec 2024,1311603.27
+Auckland Super City,Electricity Assistance,Mar 2025,1207122.36
+Auckland Super City,Electricity Assistance,Jun 2025,1023966.34
+Auckland Super City,Electricity Assistance,Sep 2025,1604258
+Auckland Super City,Electricity Assistance,Dec 2025,1420544.41
+Auckland Super City,Electricity Assistance,Mar 2026,1322673.92
+Auckland Super City,Emergency Housing,Mar 2023,17916902.2
+Auckland Super City,Emergency Housing,Jun 2023,23574789.78
+Auckland Super City,Emergency Housing,Sep 2023,26248694.8
+Auckland Super City,Emergency Housing,Dec 2023,28267479.55
+Auckland Super City,Emergency Housing,Mar 2024,22437024.38
+Auckland Super City,Emergency Housing,Jun 2024,16044506.31
+Auckland Super City,Emergency Housing,Sep 2024,6321163.42
+Auckland Super City,Emergency Housing,Dec 2024,2223933.05
+Auckland Super City,Emergency Housing,Mar 2025,1037457.35
+Auckland Super City,Emergency Housing,Jun 2025,1070823
+Auckland Super City,Emergency Housing,Sep 2025,1207672.7
+Auckland Super City,Emergency Housing,Dec 2025,1553721.01
+Auckland Super City,Emergency Housing,Mar 2026,2054720.65
+Auckland Super City,Food,Mar 2023,13237416.74
+Auckland Super City,Food,Jun 2023,11779586.89
+Auckland Super City,Food,Sep 2023,12739659.14
+Auckland Super City,Food,Dec 2023,12596374.26
+Auckland Super City,Food,Mar 2024,11762140.01
+Auckland Super City,Food,Jun 2024,9876465.39
+Auckland Super City,Food,Sep 2024,10811239
+Auckland Super City,Food,Dec 2024,11281472.31
+Auckland Super City,Food,Mar 2025,11294622.48
+Auckland Super City,Food,Jun 2025,9983195.26
+Auckland Super City,Food,Sep 2025,10803971.31
+Auckland Super City,Food,Dec 2025,11756275.81
+Auckland Super City,Food,Mar 2026,11476940.29
+Auckland Super City,Gas Assistance,Mar 2023,18220.58
+Auckland Super City,Gas Assistance,Jun 2023,18768.68
+Auckland Super City,Gas Assistance,Sep 2023,16370.44
+Auckland Super City,Gas Assistance,Dec 2023,27892.95
+Auckland Super City,Gas Assistance,Mar 2024,20224.42
+Auckland Super City,Gas Assistance,Jun 2024,15380.16
+Auckland Super City,Gas Assistance,Sep 2024,21415.48
+Auckland Super City,Gas Assistance,Dec 2024,26294.73
+Auckland Super City,Gas Assistance,Mar 2025,20276.04
+Auckland Super City,Gas Assistance,Jun 2025,17251.08
+Auckland Super City,Gas Assistance,Sep 2025,26528.43
+Auckland Super City,Gas Assistance,Dec 2025,26220.91
+Auckland Super City,Gas Assistance,Mar 2026,26204.04
+Auckland Super City,Stranded Travel - Petrol,Mar 2023,95930.96
+Auckland Super City,Stranded Travel - Petrol,Jun 2023,76293.92
+Auckland Super City,Stranded Travel - Petrol,Sep 2023,90784.55
+Auckland Super City,Stranded Travel - Petrol,Dec 2023,95991.18
+Auckland Super City,Stranded Travel - Petrol,Mar 2024,83808.39
+Auckland Super City,Stranded Travel - Petrol,Jun 2024,61482.79
+Auckland Super City,Stranded Travel - Petrol,Sep 2024,61031.07
+Auckland Super City,Stranded Travel - Petrol,Dec 2024,54317.76
+Auckland Super City,Stranded Travel - Petrol,Mar 2025,66225.86
+Auckland Super City,Stranded Travel - Petrol,Jun 2025,44594.31
+Auckland Super City,Stranded Travel - Petrol,Sep 2025,47785.48
+Auckland Super City,Stranded Travel - Petrol,Dec 2025,47305.94
+Auckland Super City,Stranded Travel - Petrol,Mar 2026,47838.04
+Auckland Super City,All hardship,Mar 2023,81821280.64
+Auckland Super City,All hardship,Jun 2023,80718015.13
+Auckland Super City,All hardship,Sep 2023,86095918.19
+Auckland Super City,All hardship,Dec 2023,84632923.97
+Auckland Super City,All hardship,Mar 2024,80104801.97
+Auckland Super City,All hardship,Jun 2024,71259399.15
+Auckland Super City,All hardship,Sep 2024,66711247.91
+Auckland Super City,All hardship,Dec 2024,58839712.66
+Auckland Super City,All hardship,Mar 2025,60616230.78
+Auckland Super City,All hardship,Jun 2025,57319080.73
+Auckland Super City,All hardship,Sep 2025,61173019.08
+Auckland Super City,All hardship,Dec 2025,60285970.23
+Auckland Super City,All hardship,Mar 2026,64466766.21
+Hamilton City,Electricity Assistance,Mar 2023,197318.77
+Hamilton City,Electricity Assistance,Jun 2023,147615.52
+Hamilton City,Electricity Assistance,Sep 2023,379183.33
+Hamilton City,Electricity Assistance,Dec 2023,324809.13
+Hamilton City,Electricity Assistance,Mar 2024,254898.47
+Hamilton City,Electricity Assistance,Jun 2024,147225.92
+Hamilton City,Electricity Assistance,Sep 2024,361364.64
+Hamilton City,Electricity Assistance,Dec 2024,316484.44
+Hamilton City,Electricity Assistance,Mar 2025,266807.01
+Hamilton City,Electricity Assistance,Jun 2025,170462.9
+Hamilton City,Electricity Assistance,Sep 2025,328081.65
+Hamilton City,Electricity Assistance,Dec 2025,336513.36
+Hamilton City,Electricity Assistance,Mar 2026,303954.32
+Hamilton City,Emergency Housing,Mar 2023,24729180.48
+Hamilton City,Emergency Housing,Jun 2023,25031325.73
+Hamilton City,Emergency Housing,Sep 2023,23320634.45
+Hamilton City,Emergency Housing,Dec 2023,20069592.48
+Hamilton City,Emergency Housing,Mar 2024,18213802.55
+Hamilton City,Emergency Housing,Jun 2024,17870485.5
+Hamilton City,Emergency Housing,Sep 2024,11533258.34
+Hamilton City,Emergency Housing,Dec 2024,5255673
+Hamilton City,Emergency Housing,Mar 2025,3145946
+Hamilton City,Emergency Housing,Jun 2025,3305265.4
+Hamilton City,Emergency Housing,Sep 2025,3190635.18
+Hamilton City,Emergency Housing,Dec 2025,3414952.5
+Hamilton City,Emergency Housing,Mar 2026,2672892.1
+Hamilton City,Food,Mar 2023,2033706.64
+Hamilton City,Food,Jun 2023,1804087.16
+Hamilton City,Food,Sep 2023,2052140.15
+Hamilton City,Food,Dec 2023,1982320.07
+Hamilton City,Food,Mar 2024,1901357.93
+Hamilton City,Food,Jun 2024,1658423.21
+Hamilton City,Food,Sep 2024,1828894.97
+Hamilton City,Food,Dec 2024,1875829.09
+Hamilton City,Food,Mar 2025,1831495.17
+Hamilton City,Food,Jun 2025,1710867.07
+Hamilton City,Food,Sep 2025,1858773.25
+Hamilton City,Food,Dec 2025,1973466.58
+Hamilton City,Food,Mar 2026,1895122.96
+Hamilton City,Gas Assistance,Mar 2023,1798.75
+Hamilton City,Gas Assistance,Jun 2023,5136.04
+Hamilton City,Gas Assistance,Sep 2023,5134.74
+Hamilton City,Gas Assistance,Dec 2023,4285.34
+Hamilton City,Gas Assistance,Mar 2024,2131.29
+Hamilton City,Gas Assistance,Jun 2024,3954.94
+Hamilton City,Gas Assistance,Sep 2024,4575.59
+Hamilton City,Gas Assistance,Dec 2024,4727.82
+Hamilton City,Gas Assistance,Mar 2025,3888.68
+Hamilton City,Gas Assistance,Jun 2025,4039.06
+Hamilton City,Gas Assistance,Sep 2025,4706.79
+Hamilton City,Gas Assistance,Dec 2025,6760.83
+Hamilton City,Gas Assistance,Mar 2026,3979.6
+Hamilton City,Stranded Travel - Petrol,Mar 2023,26770
+Hamilton City,Stranded Travel - Petrol,Jun 2023,19754.56
+Hamilton City,Stranded Travel - Petrol,Sep 2023,24667
+Hamilton City,Stranded Travel - Petrol,Dec 2023,25485.8
+Hamilton City,Stranded Travel - Petrol,Mar 2024,19256.8
+Hamilton City,Stranded Travel - Petrol,Jun 2024,17001
+Hamilton City,Stranded Travel - Petrol,Sep 2024,20912
+Hamilton City,Stranded Travel - Petrol,Dec 2024,20559
+Hamilton City,Stranded Travel - Petrol,Mar 2025,16775
+Hamilton City,Stranded Travel - Petrol,Jun 2025,14539.75
+Hamilton City,Stranded Travel - Petrol,Sep 2025,15122
+Hamilton City,Stranded Travel - Petrol,Dec 2025,17655
+Hamilton City,Stranded Travel - Petrol,Mar 2026,16631
+Hamilton City,All hardship,Mar 2023,33485561.62
+Hamilton City,All hardship,Jun 2023,33252054.44
+Hamilton City,All hardship,Sep 2023,32640228.67
+Hamilton City,All hardship,Dec 2023,28602092.1
+Hamilton City,All hardship,Mar 2024,26258631.77
+Hamilton City,All hardship,Jun 2024,25858952.37
+Hamilton City,All hardship,Sep 2024,20652347.36
+Hamilton City,All hardship,Dec 2024,13867080.48
+Hamilton City,All hardship,Mar 2025,11935000.14
+Hamilton City,All hardship,Jun 2025,11930965.61
+Hamilton City,All hardship,Sep 2025,12243521.99
+Hamilton City,All hardship,Dec 2025,12543864.55
+Hamilton City,All hardship,Mar 2026,11833845.77
+Matamata-Piako District,Electricity Assistance,Mar 2023,18723.82
+Matamata-Piako District,Electricity Assistance,Jun 2023,18060.17
+Matamata-Piako District,Electricity Assistance,Sep 2023,35308.96
+Matamata-Piako District,Electricity Assistance,Dec 2023,51371.19
+Matamata-Piako District,Electricity Assistance,Mar 2024,27784.42
+Matamata-Piako District,Electricity Assistance,Jun 2024,22287.81
+Matamata-Piako District,Electricity Assistance,Sep 2024,38429.44
+Matamata-Piako District,Electricity Assistance,Dec 2024,34642.64
+Matamata-Piako District,Electricity Assistance,Mar 2025,23923.27
+Matamata-Piako District,Electricity Assistance,Jun 2025,19451.28
+Matamata-Piako District,Electricity Assistance,Sep 2025,38648.67
+Matamata-Piako District,Electricity Assistance,Dec 2025,26711.44
+Matamata-Piako District,Electricity Assistance,Mar 2026,20419.54
+Matamata-Piako District,Emergency Housing,Mar 2023,405208.97
+Matamata-Piako District,Emergency Housing,Jun 2023,453973
+Matamata-Piako District,Emergency Housing,Sep 2023,471130
+Matamata-Piako District,Emergency Housing,Dec 2023,373712
+Matamata-Piako District,Emergency Housing,Mar 2024,376391
+Matamata-Piako District,Emergency Housing,Jun 2024,319890
+Matamata-Piako District,Emergency Housing,Sep 2024,217964
+Matamata-Piako District,Emergency Housing,Dec 2024,50558
+Matamata-Piako District,Emergency Housing,Mar 2025,23374
+Matamata-Piako District,Emergency Housing,Jun 2025,58898
+Matamata-Piako District,Emergency Housing,Sep 2025,89117.5
+Matamata-Piako District,Emergency Housing,Dec 2025,44313
+Matamata-Piako District,Emergency Housing,Mar 2026,65681
+Matamata-Piako District,Food,Mar 2023,208120.24
+Matamata-Piako District,Food,Jun 2023,188599.33
+Matamata-Piako District,Food,Sep 2023,213108.93
+Matamata-Piako District,Food,Dec 2023,205668.49
+Matamata-Piako District,Food,Mar 2024,205698.29
+Matamata-Piako District,Food,Jun 2024,181774.16
+Matamata-Piako District,Food,Sep 2024,212853.68
+Matamata-Piako District,Food,Dec 2024,205935.49
+Matamata-Piako District,Food,Mar 2025,214514.7
+Matamata-Piako District,Food,Jun 2025,191861.29
+Matamata-Piako District,Food,Sep 2025,200666.49
+Matamata-Piako District,Food,Dec 2025,207820.33
+Matamata-Piako District,Food,Mar 2026,211851.67
+Matamata-Piako District,Gas Assistance,Mar 2023,370
+Matamata-Piako District,Gas Assistance,Jun 2023,122.01
+Matamata-Piako District,Gas Assistance,Sep 2023,100
+Matamata-Piako District,Gas Assistance,Dec 2023,212.26
+Matamata-Piako District,Gas Assistance,Mar 2024,60
+Matamata-Piako District,Gas Assistance,Jun 2024,88
+Matamata-Piako District,Gas Assistance,Sep 2024,599.99
+Matamata-Piako District,Gas Assistance,Dec 2024,0
+Matamata-Piako District,Gas Assistance,Mar 2025,423.47
+Matamata-Piako District,Gas Assistance,Jun 2025,942.26
+Matamata-Piako District,Gas Assistance,Sep 2025,1667.47
+Matamata-Piako District,Gas Assistance,Dec 2025,1470.44
+Matamata-Piako District,Gas Assistance,Mar 2026,651.46
+Matamata-Piako District,Stranded Travel - Petrol,Mar 2023,3331
+Matamata-Piako District,Stranded Travel - Petrol,Jun 2023,1460
+Matamata-Piako District,Stranded Travel - Petrol,Sep 2023,1965
+Matamata-Piako District,Stranded Travel - Petrol,Dec 2023,2230
+Matamata-Piako District,Stranded Travel - Petrol,Mar 2024,4150.4
+Matamata-Piako District,Stranded Travel - Petrol,Jun 2024,3184
+Matamata-Piako District,Stranded Travel - Petrol,Sep 2024,3215
+Matamata-Piako District,Stranded Travel - Petrol,Dec 2024,3033.6
+Matamata-Piako District,Stranded Travel - Petrol,Mar 2025,4735.04
+Matamata-Piako District,Stranded Travel - Petrol,Jun 2025,2882
+Matamata-Piako District,Stranded Travel - Petrol,Sep 2025,2972.8
+Matamata-Piako District,Stranded Travel - Petrol,Dec 2025,1778.2
+Matamata-Piako District,Stranded Travel - Petrol,Mar 2026,2560
+Matamata-Piako District,All hardship,Mar 2023,1438904.27
+Matamata-Piako District,All hardship,Jun 2023,1397666.53
+Matamata-Piako District,All hardship,Sep 2023,1606220.85
+Matamata-Piako District,All hardship,Dec 2023,1347337.93
+Matamata-Piako District,All hardship,Mar 2024,1322810.71
+Matamata-Piako District,All hardship,Jun 2024,1314134.31
+Matamata-Piako District,All hardship,Sep 2024,1320631.16
+Matamata-Piako District,All hardship,Dec 2024,1076791.94
+Matamata-Piako District,All hardship,Mar 2025,1082704.44
+Matamata-Piako District,All hardship,Jun 2025,1141334.89
+Matamata-Piako District,All hardship,Sep 2025,1196352.57
+Matamata-Piako District,All hardship,Dec 2025,1015712.67
+Matamata-Piako District,All hardship,Mar 2026,1035173.39
+Otorohanga District,Electricity Assistance,Mar 2023,7398.84
+Otorohanga District,Electricity Assistance,Jun 2023,5622.34
+Otorohanga District,Electricity Assistance,Sep 2023,21962.43
+Otorohanga District,Electricity Assistance,Dec 2023,14655.05
+Otorohanga District,Electricity Assistance,Mar 2024,10124.01
+Otorohanga District,Electricity Assistance,Jun 2024,4853.97
+Otorohanga District,Electricity Assistance,Sep 2024,26540.85
+Otorohanga District,Electricity Assistance,Dec 2024,19980.98
+Otorohanga District,Electricity Assistance,Mar 2025,9345.43
+Otorohanga District,Electricity Assistance,Jun 2025,7742.09
+Otorohanga District,Electricity Assistance,Sep 2025,12116.34
+Otorohanga District,Electricity Assistance,Dec 2025,15549.15
+Otorohanga District,Electricity Assistance,Mar 2026,11809.43
+Otorohanga District,Emergency Housing,Mar 2023,65070
+Otorohanga District,Emergency Housing,Jun 2023,67269
+Otorohanga District,Emergency Housing,Sep 2023,61028
+Otorohanga District,Emergency Housing,Dec 2023,43576
+Otorohanga District,Emergency Housing,Mar 2024,30618
+Otorohanga District,Emergency Housing,Jun 2024,78680
+Otorohanga District,Emergency Housing,Sep 2024,50428.42
+Otorohanga District,Emergency Housing,Dec 2024,4480
+Otorohanga District,Emergency Housing,Mar 2025,29760
+Otorohanga District,Emergency Housing,Jun 2025,48080
+Otorohanga District,Emergency Housing,Sep 2025,38896.78
+Otorohanga District,Emergency Housing,Dec 2025,70420
+Otorohanga District,Emergency Housing,Mar 2026,37800
+Otorohanga District,Food,Mar 2023,67956.21
+Otorohanga District,Food,Jun 2023,64644.81
+Otorohanga District,Food,Sep 2023,68596.74
+Otorohanga District,Food,Dec 2023,67900.52
+Otorohanga District,Food,Mar 2024,66076.53
+Otorohanga District,Food,Jun 2024,61199.54
+Otorohanga District,Food,Sep 2024,72054.07
+Otorohanga District,Food,Dec 2024,74137.04
+Otorohanga District,Food,Mar 2025,70491.49
+Otorohanga District,Food,Jun 2025,64948.59
+Otorohanga District,Food,Sep 2025,74087.89
+Otorohanga District,Food,Dec 2025,78949.93
+Otorohanga District,Food,Mar 2026,70907.28
+Otorohanga District,Gas Assistance,Mar 2023,272.8
+Otorohanga District,Gas Assistance,Jun 2023,0
+Otorohanga District,Gas Assistance,Sep 2023,0
+Otorohanga District,Gas Assistance,Dec 2023,778.23
+Otorohanga District,Gas Assistance,Mar 2024,217.8
+Otorohanga District,Gas Assistance,Jun 2024,45
+Otorohanga District,Gas Assistance,Sep 2024,936.11
+Otorohanga District,Gas Assistance,Dec 2024,115
+Otorohanga District,Gas Assistance,Mar 2025,0
+Otorohanga District,Gas Assistance,Jun 2025,0
+Otorohanga District,Gas Assistance,Sep 2025,666
+Otorohanga District,Gas Assistance,Dec 2025,0
+Otorohanga District,Gas Assistance,Mar 2026,236.06
+Otorohanga District,Stranded Travel - Petrol,Mar 2023,220
+Otorohanga District,Stranded Travel - Petrol,Jun 2023,820
+Otorohanga District,Stranded Travel - Petrol,Sep 2023,940
+Otorohanga District,Stranded Travel - Petrol,Dec 2023,1400
+Otorohanga District,Stranded Travel - Petrol,Mar 2024,590
+Otorohanga District,Stranded Travel - Petrol,Jun 2024,640
+Otorohanga District,Stranded Travel - Petrol,Sep 2024,1270
+Otorohanga District,Stranded Travel - Petrol,Dec 2024,1290
+Otorohanga District,Stranded Travel - Petrol,Mar 2025,975
+Otorohanga District,Stranded Travel - Petrol,Jun 2025,950
+Otorohanga District,Stranded Travel - Petrol,Sep 2025,1255
+Otorohanga District,Stranded Travel - Petrol,Dec 2025,530
+Otorohanga District,Stranded Travel - Petrol,Mar 2026,1195
+Otorohanga District,All hardship,Mar 2023,345804.85
+Otorohanga District,All hardship,Jun 2023,374373.16
+Otorohanga District,All hardship,Sep 2023,429842.37
+Otorohanga District,All hardship,Dec 2023,332118.99
+Otorohanga District,All hardship,Mar 2024,337324.65
+Otorohanga District,All hardship,Jun 2024,378307.54
+Otorohanga District,All hardship,Sep 2024,403536.56
+Otorohanga District,All hardship,Dec 2024,338490.83
+Otorohanga District,All hardship,Mar 2025,331838
+Otorohanga District,All hardship,Jun 2025,347279.53
+Otorohanga District,All hardship,Sep 2025,370701.96
+Otorohanga District,All hardship,Dec 2025,394129.06
+Otorohanga District,All hardship,Mar 2026,370389.9
+Waikato District,Electricity Assistance,Mar 2023,57893.55
+Waikato District,Electricity Assistance,Jun 2023,42737.15
+Waikato District,Electricity Assistance,Sep 2023,118870.37
+Waikato District,Electricity Assistance,Dec 2023,104723.49
+Waikato District,Electricity Assistance,Mar 2024,80396.05
+Waikato District,Electricity Assistance,Jun 2024,48173.47
+Waikato District,Electricity Assistance,Sep 2024,120004.13
+Waikato District,Electricity Assistance,Dec 2024,74447.37
+Waikato District,Electricity Assistance,Mar 2025,80484.57
+Waikato District,Electricity Assistance,Jun 2025,43811.68
+Waikato District,Electricity Assistance,Sep 2025,101775.04
+Waikato District,Electricity Assistance,Dec 2025,82790.31
+Waikato District,Electricity Assistance,Mar 2026,86431.4
+Waikato District,Emergency Housing,Mar 2023,399122.14
+Waikato District,Emergency Housing,Jun 2023,438740
+Waikato District,Emergency Housing,Sep 2023,333339.9
+Waikato District,Emergency Housing,Dec 2023,182663
+Waikato District,Emergency Housing,Mar 2024,198783.9
+Waikato District,Emergency Housing,Jun 2024,83582
+Waikato District,Emergency Housing,Sep 2024,119071
+Waikato District,Emergency Housing,Dec 2024,75753
+Waikato District,Emergency Housing,Mar 2025,135010
+Waikato District,Emergency Housing,Jun 2025,56770
+Waikato District,Emergency Housing,Sep 2025,47920
+Waikato District,Emergency Housing,Dec 2025,114954
+Waikato District,Emergency Housing,Mar 2026,88071
+Waikato District,Food,Mar 2023,633511.39
+Waikato District,Food,Jun 2023,572676.14
+Waikato District,Food,Sep 2023,647213.46
+Waikato District,Food,Dec 2023,641918.47
+Waikato District,Food,Mar 2024,618136.04
+Waikato District,Food,Jun 2024,533964.45
+Waikato District,Food,Sep 2024,603773.87
+Waikato District,Food,Dec 2024,645985.75
+Waikato District,Food,Mar 2025,631921.93
+Waikato District,Food,Jun 2025,573958.02
+Waikato District,Food,Sep 2025,633932.71
+Waikato District,Food,Dec 2025,692275.35
+Waikato District,Food,Mar 2026,658631.49
+Waikato District,Gas Assistance,Mar 2023,710.58
+Waikato District,Gas Assistance,Jun 2023,3980.6
+Waikato District,Gas Assistance,Sep 2023,1948.6
+Waikato District,Gas Assistance,Dec 2023,933.72
+Waikato District,Gas Assistance,Mar 2024,965.58
+Waikato District,Gas Assistance,Jun 2024,1374.5
+Waikato District,Gas Assistance,Sep 2024,2414.55
+Waikato District,Gas Assistance,Dec 2024,1131.55
+Waikato District,Gas Assistance,Mar 2025,1555.83
+Waikato District,Gas Assistance,Jun 2025,1955.45
+Waikato District,Gas Assistance,Sep 2025,904
+Waikato District,Gas Assistance,Dec 2025,1253.05
+Waikato District,Gas Assistance,Mar 2026,910
+Waikato District,Stranded Travel - Petrol,Mar 2023,6791.27
+Waikato District,Stranded Travel - Petrol,Jun 2023,2976
+Waikato District,Stranded Travel - Petrol,Sep 2023,6981.8
+Waikato District,Stranded Travel - Petrol,Dec 2023,6020
+Waikato District,Stranded Travel - Petrol,Mar 2024,4079
+Waikato District,Stranded Travel - Petrol,Jun 2024,4170
+Waikato District,Stranded Travel - Petrol,Sep 2024,6181.4
+Waikato District,Stranded Travel - Petrol,Dec 2024,5184
+Waikato District,Stranded Travel - Petrol,Mar 2025,5482
+Waikato District,Stranded Travel - Petrol,Jun 2025,4260
+Waikato District,Stranded Travel - Petrol,Sep 2025,3423.2
+Waikato District,Stranded Travel - Petrol,Dec 2025,4115
+Waikato District,Stranded Travel - Petrol,Mar 2026,3954
+Waikato District,All hardship,Mar 2023,3173903.48
+Waikato District,All hardship,Jun 2023,3113447.57
+Waikato District,All hardship,Sep 2023,3311229.9
+Waikato District,All hardship,Dec 2023,2780654.1
+Waikato District,All hardship,Mar 2024,2805255.52
+Waikato District,All hardship,Jun 2024,2652030.95
+Waikato District,All hardship,Sep 2024,3072583.59
+Waikato District,All hardship,Dec 2024,2971756.76
+Waikato District,All hardship,Mar 2025,2985156.91
+Waikato District,All hardship,Jun 2025,3002251.62
+Waikato District,All hardship,Sep 2025,3270368.52
+Waikato District,All hardship,Dec 2025,3173774.14
+Waikato District,All hardship,Mar 2026,3178960.34
+Waipa District,Electricity Assistance,Mar 2023,18820.58
+Waipa District,Electricity Assistance,Jun 2023,12994.17
+Waipa District,Electricity Assistance,Sep 2023,45064.95
+Waipa District,Electricity Assistance,Dec 2023,34730.41
+Waipa District,Electricity Assistance,Mar 2024,31874.83
+Waipa District,Electricity Assistance,Jun 2024,16598.23
+Waipa District,Electricity Assistance,Sep 2024,50644.15
+Waipa District,Electricity Assistance,Dec 2024,35103.57
+Waipa District,Electricity Assistance,Mar 2025,23510.92
+Waipa District,Electricity Assistance,Jun 2025,22373.96
+Waipa District,Electricity Assistance,Sep 2025,50491.58
+Waipa District,Electricity Assistance,Dec 2025,35899.93
+Waipa District,Electricity Assistance,Mar 2026,35089.08
+Waipa District,Emergency Housing,Mar 2023,689844
+Waipa District,Emergency Housing,Jun 2023,483094.86
+Waipa District,Emergency Housing,Sep 2023,395861
+Waipa District,Emergency Housing,Dec 2023,399132
+Waipa District,Emergency Housing,Mar 2024,182213
+Waipa District,Emergency Housing,Jun 2024,86477
+Waipa District,Emergency Housing,Sep 2024,5606
+Waipa District,Emergency Housing,Dec 2024,9612
+Waipa District,Emergency Housing,Mar 2025,0
+Waipa District,Emergency Housing,Jun 2025,6356
+Waipa District,Emergency Housing,Sep 2025,15890
+Waipa District,Emergency Housing,Dec 2025,26178.46
+Waipa District,Emergency Housing,Mar 2026,8246
+Waipa District,Food,Mar 2023,255013.41
+Waipa District,Food,Jun 2023,226467.74
+Waipa District,Food,Sep 2023,233417.19
+Waipa District,Food,Dec 2023,249212.38
+Waipa District,Food,Mar 2024,227516.88
+Waipa District,Food,Jun 2024,214906.9
+Waipa District,Food,Sep 2024,218187.23
+Waipa District,Food,Dec 2024,234249.1
+Waipa District,Food,Mar 2025,233449.63
+Waipa District,Food,Jun 2025,213396.18
+Waipa District,Food,Sep 2025,231140.49
+Waipa District,Food,Dec 2025,237756.35
+Waipa District,Food,Mar 2026,216068.88
+Waipa District,Gas Assistance,Mar 2023,660.47
+Waipa District,Gas Assistance,Jun 2023,200
+Waipa District,Gas Assistance,Sep 2023,629.45
+Waipa District,Gas Assistance,Dec 2023,0
+Waipa District,Gas Assistance,Mar 2024,474.67
+Waipa District,Gas Assistance,Jun 2024,0
+Waipa District,Gas Assistance,Sep 2024,320
+Waipa District,Gas Assistance,Dec 2024,310
+Waipa District,Gas Assistance,Mar 2025,71.53
+Waipa District,Gas Assistance,Jun 2025,391.28
+Waipa District,Gas Assistance,Sep 2025,1200.29
+Waipa District,Gas Assistance,Dec 2025,478.93
+Waipa District,Gas Assistance,Mar 2026,0
+Waipa District,Stranded Travel - Petrol,Mar 2023,1415
+Waipa District,Stranded Travel - Petrol,Jun 2023,1147.14
+Waipa District,Stranded Travel - Petrol,Sep 2023,1860
+Waipa District,Stranded Travel - Petrol,Dec 2023,2615
+Waipa District,Stranded Travel - Petrol,Mar 2024,1890
+Waipa District,Stranded Travel - Petrol,Jun 2024,1185
+Waipa District,Stranded Travel - Petrol,Sep 2024,1446
+Waipa District,Stranded Travel - Petrol,Dec 2024,1145
+Waipa District,Stranded Travel - Petrol,Mar 2025,2005
+Waipa District,Stranded Travel - Petrol,Jun 2025,1076
+Waipa District,Stranded Travel - Petrol,Sep 2025,1622.5
+Waipa District,Stranded Travel - Petrol,Dec 2025,1650
+Waipa District,Stranded Travel - Petrol,Mar 2026,2660
+Waipa District,All hardship,Mar 2023,1802862.51
+Waipa District,All hardship,Jun 2023,1579272.32
+Waipa District,All hardship,Sep 2023,1491934.26
+Waipa District,All hardship,Dec 2023,1548096.75
+Waipa District,All hardship,Mar 2024,1235555.01
+Waipa District,All hardship,Jun 2024,1110491.77
+Waipa District,All hardship,Sep 2024,1236063.66
+Waipa District,All hardship,Dec 2024,1072612.26
+Waipa District,All hardship,Mar 2025,1134195.12
+Waipa District,All hardship,Jun 2025,1115128.66
+Waipa District,All hardship,Sep 2025,1183679.28
+Waipa District,All hardship,Dec 2025,1121326.45
+Waipa District,All hardship,Mar 2026,1179303.34

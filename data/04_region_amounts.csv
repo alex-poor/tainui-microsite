@@ -1,0 +1,1093 @@
+region,service_centre,hardship_type,quarter,amount
+Auckland Metro,Pukekohe,Electricity Assistance,Mar 2023,15264.27
+Auckland Metro,Pukekohe,Electricity Assistance,Jun 2023,17511.03
+Auckland Metro,Pukekohe,Electricity Assistance,Sep 2023,42560.71
+Auckland Metro,Pukekohe,Electricity Assistance,Dec 2023,29397.41
+Auckland Metro,Pukekohe,Electricity Assistance,Mar 2024,31204.59
+Auckland Metro,Pukekohe,Electricity Assistance,Jun 2024,32743.76
+Auckland Metro,Pukekohe,Electricity Assistance,Sep 2024,60286.06
+Auckland Metro,Pukekohe,Electricity Assistance,Dec 2024,34688.39
+Auckland Metro,Pukekohe,Electricity Assistance,Mar 2025,38358.76
+Auckland Metro,Pukekohe,Electricity Assistance,Jun 2025,35845.61
+Auckland Metro,Pukekohe,Electricity Assistance,Sep 2025,61698.35
+Auckland Metro,Pukekohe,Electricity Assistance,Dec 2025,41634.03
+Auckland Metro,Pukekohe,Electricity Assistance,Mar 2026,32263.52
+Auckland Metro,Pukekohe,Emergency Housing,Mar 2023,804844.38
+Auckland Metro,Pukekohe,Emergency Housing,Jun 2023,1116347
+Auckland Metro,Pukekohe,Emergency Housing,Sep 2023,1259186.91
+Auckland Metro,Pukekohe,Emergency Housing,Dec 2023,1328108
+Auckland Metro,Pukekohe,Emergency Housing,Mar 2024,796716.46
+Auckland Metro,Pukekohe,Emergency Housing,Jun 2024,801187
+Auckland Metro,Pukekohe,Emergency Housing,Sep 2024,340405.5
+Auckland Metro,Pukekohe,Emergency Housing,Dec 2024,205357.8
+Auckland Metro,Pukekohe,Emergency Housing,Mar 2025,149695
+Auckland Metro,Pukekohe,Emergency Housing,Jun 2025,117328
+Auckland Metro,Pukekohe,Emergency Housing,Sep 2025,221478.6
+Auckland Metro,Pukekohe,Emergency Housing,Dec 2025,300068
+Auckland Metro,Pukekohe,Emergency Housing,Mar 2026,52726
+Auckland Metro,Pukekohe,Food,Mar 2023,107801.12
+Auckland Metro,Pukekohe,Food,Jun 2023,89092.63
+Auckland Metro,Pukekohe,Food,Sep 2023,107278.71
+Auckland Metro,Pukekohe,Food,Dec 2023,124540.87
+Auckland Metro,Pukekohe,Food,Mar 2024,117320.45
+Auckland Metro,Pukekohe,Food,Jun 2024,99405.41
+Auckland Metro,Pukekohe,Food,Sep 2024,90978.95
+Auckland Metro,Pukekohe,Food,Dec 2024,88725.6
+Auckland Metro,Pukekohe,Food,Mar 2025,91183.62
+Auckland Metro,Pukekohe,Food,Jun 2025,77467.15
+Auckland Metro,Pukekohe,Food,Sep 2025,84681.97
+Auckland Metro,Pukekohe,Food,Dec 2025,78611.19
+Auckland Metro,Pukekohe,Food,Mar 2026,70497.91
+Auckland Metro,Pukekohe,Gas Assistance,Mar 2023,0
+Auckland Metro,Pukekohe,Gas Assistance,Jun 2023,0
+Auckland Metro,Pukekohe,Gas Assistance,Sep 2023,30
+Auckland Metro,Pukekohe,Gas Assistance,Dec 2023,300.96
+Auckland Metro,Pukekohe,Gas Assistance,Mar 2024,509.62
+Auckland Metro,Pukekohe,Gas Assistance,Jun 2024,348.74
+Auckland Metro,Pukekohe,Gas Assistance,Sep 2024,585.82
+Auckland Metro,Pukekohe,Gas Assistance,Dec 2024,265
+Auckland Metro,Pukekohe,Gas Assistance,Mar 2025,596.5
+Auckland Metro,Pukekohe,Gas Assistance,Jun 2025,556
+Auckland Metro,Pukekohe,Gas Assistance,Sep 2025,771.5
+Auckland Metro,Pukekohe,Gas Assistance,Dec 2025,272.23
+Auckland Metro,Pukekohe,Gas Assistance,Mar 2026,753.84
+Auckland Metro,Pukekohe,Stranded Travel - Petrol,Mar 2023,1105
+Auckland Metro,Pukekohe,Stranded Travel - Petrol,Jun 2023,470
+Auckland Metro,Pukekohe,Stranded Travel - Petrol,Sep 2023,1805
+Auckland Metro,Pukekohe,Stranded Travel - Petrol,Dec 2023,1885
+Auckland Metro,Pukekohe,Stranded Travel - Petrol,Mar 2024,700
+Auckland Metro,Pukekohe,Stranded Travel - Petrol,Jun 2024,180
+Auckland Metro,Pukekohe,Stranded Travel - Petrol,Sep 2024,1830
+Auckland Metro,Pukekohe,Stranded Travel - Petrol,Dec 2024,1029
+Auckland Metro,Pukekohe,Stranded Travel - Petrol,Mar 2025,2021
+Auckland Metro,Pukekohe,Stranded Travel - Petrol,Jun 2025,645
+Auckland Metro,Pukekohe,Stranded Travel - Petrol,Sep 2025,2025
+Auckland Metro,Pukekohe,Stranded Travel - Petrol,Dec 2025,1100
+Auckland Metro,Pukekohe,Stranded Travel - Petrol,Mar 2026,778
+Auckland Metro,Pukekohe,All hardship,Mar 2023,1717775.35
+Auckland Metro,Pukekohe,All hardship,Jun 2023,1896555.53
+Auckland Metro,Pukekohe,All hardship,Sep 2023,2290837.73
+Auckland Metro,Pukekohe,All hardship,Dec 2023,2342539.55
+Auckland Metro,Pukekohe,All hardship,Mar 2024,2122562.21
+Auckland Metro,Pukekohe,All hardship,Jun 2024,2217970.89
+Auckland Metro,Pukekohe,All hardship,Sep 2024,1836792.42
+Auckland Metro,Pukekohe,All hardship,Dec 2024,1361132.05
+Auckland Metro,Pukekohe,All hardship,Mar 2025,1524258.73
+Auckland Metro,Pukekohe,All hardship,Jun 2025,1459839.1
+Auckland Metro,Pukekohe,All hardship,Sep 2025,1714302.72
+Auckland Metro,Pukekohe,All hardship,Dec 2025,1457077.35
+Auckland Metro,Pukekohe,All hardship,Mar 2026,1156098.53
+Waikato,Cambridge,Electricity Assistance,Mar 2023,6566.38
+Waikato,Cambridge,Electricity Assistance,Jun 2023,1290.18
+Waikato,Cambridge,Electricity Assistance,Sep 2023,4188.08
+Waikato,Cambridge,Electricity Assistance,Dec 2023,3808.58
+Waikato,Cambridge,Electricity Assistance,Mar 2024,7175.53
+Waikato,Cambridge,Electricity Assistance,Jun 2024,1184.25
+Waikato,Cambridge,Electricity Assistance,Sep 2024,7237.02
+Waikato,Cambridge,Electricity Assistance,Dec 2024,4622.3
+Waikato,Cambridge,Electricity Assistance,Mar 2025,3116.59
+Waikato,Cambridge,Electricity Assistance,Jun 2025,4882.88
+Waikato,Cambridge,Electricity Assistance,Sep 2025,9419.64
+Waikato,Cambridge,Electricity Assistance,Dec 2025,10039.38
+Waikato,Cambridge,Electricity Assistance,Mar 2026,10427.21
+Waikato,Cambridge,Emergency Housing,Mar 2023,24327.33
+Waikato,Cambridge,Emergency Housing,Jun 2023,4620
+Waikato,Cambridge,Emergency Housing,Sep 2023,19229
+Waikato,Cambridge,Emergency Housing,Dec 2023,4823
+Waikato,Cambridge,Emergency Housing,Mar 2024,0
+Waikato,Cambridge,Emergency Housing,Jun 2024,7252
+Waikato,Cambridge,Emergency Housing,Sep 2024,2100
+Waikato,Cambridge,Emergency Housing,Dec 2024,0
+Waikato,Cambridge,Emergency Housing,Mar 2025,0
+Waikato,Cambridge,Emergency Housing,Jun 2025,1260
+Waikato,Cambridge,Emergency Housing,Sep 2025,3570
+Waikato,Cambridge,Emergency Housing,Dec 2025,4480
+Waikato,Cambridge,Emergency Housing,Mar 2026,6083
+Waikato,Cambridge,Food,Mar 2023,23944
+Waikato,Cambridge,Food,Jun 2023,15077.01
+Waikato,Cambridge,Food,Sep 2023,13705.54
+Waikato,Cambridge,Food,Dec 2023,15170.11
+Waikato,Cambridge,Food,Mar 2024,12139.18
+Waikato,Cambridge,Food,Jun 2024,8968
+Waikato,Cambridge,Food,Sep 2024,9541.55
+Waikato,Cambridge,Food,Dec 2024,11399
+Waikato,Cambridge,Food,Mar 2025,12692.91
+Waikato,Cambridge,Food,Jun 2025,18120.5
+Waikato,Cambridge,Food,Sep 2025,16069.02
+Waikato,Cambridge,Food,Dec 2025,16117.13
+Waikato,Cambridge,Food,Mar 2026,13965.65
+Waikato,Cambridge,Gas Assistance,Mar 2023,0
+Waikato,Cambridge,Gas Assistance,Jun 2023,0
+Waikato,Cambridge,Gas Assistance,Sep 2023,0
+Waikato,Cambridge,Gas Assistance,Dec 2023,0
+Waikato,Cambridge,Gas Assistance,Mar 2024,0
+Waikato,Cambridge,Gas Assistance,Jun 2024,0
+Waikato,Cambridge,Gas Assistance,Sep 2024,0
+Waikato,Cambridge,Gas Assistance,Dec 2024,310
+Waikato,Cambridge,Gas Assistance,Mar 2025,0
+Waikato,Cambridge,Gas Assistance,Jun 2025,0
+Waikato,Cambridge,Gas Assistance,Sep 2025,150.53
+Waikato,Cambridge,Gas Assistance,Dec 2025,0
+Waikato,Cambridge,Gas Assistance,Mar 2026,0
+Waikato,Cambridge,Stranded Travel - Petrol,Mar 2023,1100
+Waikato,Cambridge,Stranded Travel - Petrol,Jun 2023,40
+Waikato,Cambridge,Stranded Travel - Petrol,Sep 2023,310
+Waikato,Cambridge,Stranded Travel - Petrol,Dec 2023,180
+Waikato,Cambridge,Stranded Travel - Petrol,Mar 2024,100
+Waikato,Cambridge,Stranded Travel - Petrol,Jun 2024,210
+Waikato,Cambridge,Stranded Travel - Petrol,Sep 2024,0
+Waikato,Cambridge,Stranded Travel - Petrol,Dec 2024,280
+Waikato,Cambridge,Stranded Travel - Petrol,Mar 2025,170
+Waikato,Cambridge,Stranded Travel - Petrol,Jun 2025,840
+Waikato,Cambridge,Stranded Travel - Petrol,Sep 2025,270
+Waikato,Cambridge,Stranded Travel - Petrol,Dec 2025,570
+Waikato,Cambridge,Stranded Travel - Petrol,Mar 2026,200
+Waikato,Cambridge,All hardship,Mar 2023,325002.41
+Waikato,Cambridge,All hardship,Jun 2023,224563.08
+Waikato,Cambridge,All hardship,Sep 2023,256536.06
+Waikato,Cambridge,All hardship,Dec 2023,186971.62
+Waikato,Cambridge,All hardship,Mar 2024,224411.4
+Waikato,Cambridge,All hardship,Jun 2024,174797.59
+Waikato,Cambridge,All hardship,Sep 2024,209589.01
+Waikato,Cambridge,All hardship,Dec 2024,169105.03
+Waikato,Cambridge,All hardship,Mar 2025,199788.98
+Waikato,Cambridge,All hardship,Jun 2025,286589.89
+Waikato,Cambridge,All hardship,Sep 2025,291565.06
+Waikato,Cambridge,All hardship,Dec 2025,274483.8
+Waikato,Cambridge,All hardship,Mar 2026,361870.23
+Waikato,Dinsdale,Electricity Assistance,Mar 2023,24268.29
+Waikato,Dinsdale,Electricity Assistance,Jun 2023,11687.03
+Waikato,Dinsdale,Electricity Assistance,Sep 2023,41985.66
+Waikato,Dinsdale,Electricity Assistance,Dec 2023,41054.65
+Waikato,Dinsdale,Electricity Assistance,Mar 2024,15753.79
+Waikato,Dinsdale,Electricity Assistance,Jun 2024,13035.39
+Waikato,Dinsdale,Electricity Assistance,Sep 2024,38619.02
+Waikato,Dinsdale,Electricity Assistance,Dec 2024,30652.71
+Waikato,Dinsdale,Electricity Assistance,Mar 2025,17908.97
+Waikato,Dinsdale,Electricity Assistance,Jun 2025,17381.69
+Waikato,Dinsdale,Electricity Assistance,Sep 2025,21183.08
+Waikato,Dinsdale,Electricity Assistance,Dec 2025,39195.66
+Waikato,Dinsdale,Electricity Assistance,Mar 2026,30106.93
+Waikato,Dinsdale,Emergency Housing,Mar 2023,809971
+Waikato,Dinsdale,Emergency Housing,Jun 2023,1507951
+Waikato,Dinsdale,Emergency Housing,Sep 2023,975830.78
+Waikato,Dinsdale,Emergency Housing,Dec 2023,987346
+Waikato,Dinsdale,Emergency Housing,Mar 2024,98372
+Waikato,Dinsdale,Emergency Housing,Jun 2024,93538.99
+Waikato,Dinsdale,Emergency Housing,Sep 2024,53959
+Waikato,Dinsdale,Emergency Housing,Dec 2024,16968
+Waikato,Dinsdale,Emergency Housing,Mar 2025,27497
+Waikato,Dinsdale,Emergency Housing,Jun 2025,65211
+Waikato,Dinsdale,Emergency Housing,Sep 2025,45115
+Waikato,Dinsdale,Emergency Housing,Dec 2025,37905
+Waikato,Dinsdale,Emergency Housing,Mar 2026,56926
+Waikato,Dinsdale,Food,Mar 2023,103209.86
+Waikato,Dinsdale,Food,Jun 2023,67419.64
+Waikato,Dinsdale,Food,Sep 2023,83909.11
+Waikato,Dinsdale,Food,Dec 2023,83471.6
+Waikato,Dinsdale,Food,Mar 2024,70832.15
+Waikato,Dinsdale,Food,Jun 2024,54517.05
+Waikato,Dinsdale,Food,Sep 2024,52867.85
+Waikato,Dinsdale,Food,Dec 2024,46689.32
+Waikato,Dinsdale,Food,Mar 2025,52705.08
+Waikato,Dinsdale,Food,Jun 2025,41454.91
+Waikato,Dinsdale,Food,Sep 2025,45927.89
+Waikato,Dinsdale,Food,Dec 2025,61855.67
+Waikato,Dinsdale,Food,Mar 2026,72603.7
+Waikato,Dinsdale,Gas Assistance,Mar 2023,845.07
+Waikato,Dinsdale,Gas Assistance,Jun 2023,0
+Waikato,Dinsdale,Gas Assistance,Sep 2023,307.01
+Waikato,Dinsdale,Gas Assistance,Dec 2023,2072.36
+Waikato,Dinsdale,Gas Assistance,Mar 2024,0
+Waikato,Dinsdale,Gas Assistance,Jun 2024,213.67
+Waikato,Dinsdale,Gas Assistance,Sep 2024,0
+Waikato,Dinsdale,Gas Assistance,Dec 2024,592.61
+Waikato,Dinsdale,Gas Assistance,Mar 2025,0
+Waikato,Dinsdale,Gas Assistance,Jun 2025,0
+Waikato,Dinsdale,Gas Assistance,Sep 2025,329.59
+Waikato,Dinsdale,Gas Assistance,Dec 2025,535.11
+Waikato,Dinsdale,Gas Assistance,Mar 2026,0
+Waikato,Dinsdale,Stranded Travel - Petrol,Mar 2023,3302.16
+Waikato,Dinsdale,Stranded Travel - Petrol,Jun 2023,2162.16
+Waikato,Dinsdale,Stranded Travel - Petrol,Sep 2023,2530
+Waikato,Dinsdale,Stranded Travel - Petrol,Dec 2023,1480
+Waikato,Dinsdale,Stranded Travel - Petrol,Mar 2024,1352
+Waikato,Dinsdale,Stranded Travel - Petrol,Jun 2024,1465
+Waikato,Dinsdale,Stranded Travel - Petrol,Sep 2024,1597
+Waikato,Dinsdale,Stranded Travel - Petrol,Dec 2024,610
+Waikato,Dinsdale,Stranded Travel - Petrol,Mar 2025,2430
+Waikato,Dinsdale,Stranded Travel - Petrol,Jun 2025,881.75
+Waikato,Dinsdale,Stranded Travel - Petrol,Sep 2025,1350
+Waikato,Dinsdale,Stranded Travel - Petrol,Dec 2025,1540
+Waikato,Dinsdale,Stranded Travel - Petrol,Mar 2026,600
+Waikato,Dinsdale,All hardship,Mar 2023,1831112.74
+Waikato,Dinsdale,All hardship,Jun 2023,2272603.84
+Waikato,Dinsdale,All hardship,Sep 2023,1877990.79
+Waikato,Dinsdale,All hardship,Dec 2023,1764064.36
+Waikato,Dinsdale,All hardship,Mar 2024,804971.24
+Waikato,Dinsdale,All hardship,Jun 2024,811528.63
+Waikato,Dinsdale,All hardship,Sep 2024,777299.37
+Waikato,Dinsdale,All hardship,Dec 2024,630869.02
+Waikato,Dinsdale,All hardship,Mar 2025,658080.27
+Waikato,Dinsdale,All hardship,Jun 2025,769041.46
+Waikato,Dinsdale,All hardship,Sep 2025,817843.67
+Waikato,Dinsdale,All hardship,Dec 2025,784570.03
+Waikato,Dinsdale,All hardship,Mar 2026,1102088.41
+Waikato,Five Cross Roads,Electricity Assistance,Mar 2023,40030.82
+Waikato,Five Cross Roads,Electricity Assistance,Jun 2023,24948.02
+Waikato,Five Cross Roads,Electricity Assistance,Sep 2023,61743.88
+Waikato,Five Cross Roads,Electricity Assistance,Dec 2023,68575.1
+Waikato,Five Cross Roads,Electricity Assistance,Mar 2024,53829.08
+Waikato,Five Cross Roads,Electricity Assistance,Jun 2024,35838.47
+Waikato,Five Cross Roads,Electricity Assistance,Sep 2024,67866.71
+Waikato,Five Cross Roads,Electricity Assistance,Dec 2024,62353.67
+Waikato,Five Cross Roads,Electricity Assistance,Mar 2025,46185.26
+Waikato,Five Cross Roads,Electricity Assistance,Jun 2025,24398.52
+Waikato,Five Cross Roads,Electricity Assistance,Sep 2025,71847.24
+Waikato,Five Cross Roads,Electricity Assistance,Dec 2025,78638.37
+Waikato,Five Cross Roads,Electricity Assistance,Mar 2026,59052.76
+Waikato,Five Cross Roads,Emergency Housing,Mar 2023,1486269
+Waikato,Five Cross Roads,Emergency Housing,Jun 2023,1992693.04
+Waikato,Five Cross Roads,Emergency Housing,Sep 2023,1452705.52
+Waikato,Five Cross Roads,Emergency Housing,Dec 2023,1530485.04
+Waikato,Five Cross Roads,Emergency Housing,Mar 2024,1620650
+Waikato,Five Cross Roads,Emergency Housing,Jun 2024,833352
+Waikato,Five Cross Roads,Emergency Housing,Sep 2024,79531
+Waikato,Five Cross Roads,Emergency Housing,Dec 2024,37757
+Waikato,Five Cross Roads,Emergency Housing,Mar 2025,41930
+Waikato,Five Cross Roads,Emergency Housing,Jun 2025,51685
+Waikato,Five Cross Roads,Emergency Housing,Sep 2025,67697
+Waikato,Five Cross Roads,Emergency Housing,Dec 2025,83780
+Waikato,Five Cross Roads,Emergency Housing,Mar 2026,42926
+Waikato,Five Cross Roads,Food,Mar 2023,170545.14
+Waikato,Five Cross Roads,Food,Jun 2023,145189.2
+Waikato,Five Cross Roads,Food,Sep 2023,185343.45
+Waikato,Five Cross Roads,Food,Dec 2023,195786.11
+Waikato,Five Cross Roads,Food,Mar 2024,192092.08
+Waikato,Five Cross Roads,Food,Jun 2024,148694.76
+Waikato,Five Cross Roads,Food,Sep 2024,138730.42
+Waikato,Five Cross Roads,Food,Dec 2024,125353.37
+Waikato,Five Cross Roads,Food,Mar 2025,130926.61
+Waikato,Five Cross Roads,Food,Jun 2025,123974.07
+Waikato,Five Cross Roads,Food,Sep 2025,136481.69
+Waikato,Five Cross Roads,Food,Dec 2025,131048.71
+Waikato,Five Cross Roads,Food,Mar 2026,137351.33
+Waikato,Five Cross Roads,Gas Assistance,Mar 2023,0
+Waikato,Five Cross Roads,Gas Assistance,Jun 2023,1266.55
+Waikato,Five Cross Roads,Gas Assistance,Sep 2023,139.68
+Waikato,Five Cross Roads,Gas Assistance,Dec 2023,282.64
+Waikato,Five Cross Roads,Gas Assistance,Mar 2024,242.11
+Waikato,Five Cross Roads,Gas Assistance,Jun 2024,3042.67
+Waikato,Five Cross Roads,Gas Assistance,Sep 2024,2719.51
+Waikato,Five Cross Roads,Gas Assistance,Dec 2024,0
+Waikato,Five Cross Roads,Gas Assistance,Mar 2025,1382.2
+Waikato,Five Cross Roads,Gas Assistance,Jun 2025,2608.66
+Waikato,Five Cross Roads,Gas Assistance,Sep 2025,906.24
+Waikato,Five Cross Roads,Gas Assistance,Dec 2025,221.24
+Waikato,Five Cross Roads,Gas Assistance,Mar 2026,1745.39
+Waikato,Five Cross Roads,Stranded Travel - Petrol,Mar 2023,3320
+Waikato,Five Cross Roads,Stranded Travel - Petrol,Jun 2023,3766
+Waikato,Five Cross Roads,Stranded Travel - Petrol,Sep 2023,4650
+Waikato,Five Cross Roads,Stranded Travel - Petrol,Dec 2023,5530
+Waikato,Five Cross Roads,Stranded Travel - Petrol,Mar 2024,5540
+Waikato,Five Cross Roads,Stranded Travel - Petrol,Jun 2024,5771.5
+Waikato,Five Cross Roads,Stranded Travel - Petrol,Sep 2024,7230
+Waikato,Five Cross Roads,Stranded Travel - Petrol,Dec 2024,5620
+Waikato,Five Cross Roads,Stranded Travel - Petrol,Mar 2025,6650.8
+Waikato,Five Cross Roads,Stranded Travel - Petrol,Jun 2025,2660
+Waikato,Five Cross Roads,Stranded Travel - Petrol,Sep 2025,3725
+Waikato,Five Cross Roads,Stranded Travel - Petrol,Dec 2025,3245
+Waikato,Five Cross Roads,Stranded Travel - Petrol,Mar 2026,4955
+Waikato,Five Cross Roads,All hardship,Mar 2023,2743065.91
+Waikato,Five Cross Roads,All hardship,Jun 2023,3253215.33
+Waikato,Five Cross Roads,All hardship,Sep 2023,2896509.78
+Waikato,Five Cross Roads,All hardship,Dec 2023,2900924.18
+Waikato,Five Cross Roads,All hardship,Mar 2024,2875711.24
+Waikato,Five Cross Roads,All hardship,Jun 2024,2104178.99
+Waikato,Five Cross Roads,All hardship,Sep 2024,1339699.18
+Waikato,Five Cross Roads,All hardship,Dec 2024,1152784.15
+Waikato,Five Cross Roads,All hardship,Mar 2025,1278992.58
+Waikato,Five Cross Roads,All hardship,Jun 2025,1288832.23
+Waikato,Five Cross Roads,All hardship,Sep 2025,1482298.54
+Waikato,Five Cross Roads,All hardship,Dec 2025,1503721.79
+Waikato,Five Cross Roads,All hardship,Mar 2026,1415724.63
+Waikato,Hamilton East,Electricity Assistance,Mar 2023,23367.1
+Waikato,Hamilton East,Electricity Assistance,Jun 2023,13002.14
+Waikato,Hamilton East,Electricity Assistance,Sep 2023,33769.91
+Waikato,Hamilton East,Electricity Assistance,Dec 2023,33614.98
+Waikato,Hamilton East,Electricity Assistance,Mar 2024,19704.81
+Waikato,Hamilton East,Electricity Assistance,Jun 2024,10003.17
+Waikato,Hamilton East,Electricity Assistance,Sep 2024,29500.85
+Waikato,Hamilton East,Electricity Assistance,Dec 2024,33801.73
+Waikato,Hamilton East,Electricity Assistance,Mar 2025,16378.32
+Waikato,Hamilton East,Electricity Assistance,Jun 2025,16125.2
+Waikato,Hamilton East,Electricity Assistance,Sep 2025,23250.4
+Waikato,Hamilton East,Electricity Assistance,Dec 2025,25024.44
+Waikato,Hamilton East,Electricity Assistance,Mar 2026,26969.93
+Waikato,Hamilton East,Emergency Housing,Mar 2023,1767480.89
+Waikato,Hamilton East,Emergency Housing,Jun 2023,1899864
+Waikato,Hamilton East,Emergency Housing,Sep 2023,1518378
+Waikato,Hamilton East,Emergency Housing,Dec 2023,823887.5
+Waikato,Hamilton East,Emergency Housing,Mar 2024,274275
+Waikato,Hamilton East,Emergency Housing,Jun 2024,158835
+Waikato,Hamilton East,Emergency Housing,Sep 2024,46873
+Waikato,Hamilton East,Emergency Housing,Dec 2024,61992
+Waikato,Hamilton East,Emergency Housing,Mar 2025,35468
+Waikato,Hamilton East,Emergency Housing,Jun 2025,61806
+Waikato,Hamilton East,Emergency Housing,Sep 2025,32788
+Waikato,Hamilton East,Emergency Housing,Dec 2025,18613
+Waikato,Hamilton East,Emergency Housing,Mar 2026,34950
+Waikato,Hamilton East,Food,Mar 2023,132566.77
+Waikato,Hamilton East,Food,Jun 2023,89271.19
+Waikato,Hamilton East,Food,Sep 2023,80170.85
+Waikato,Hamilton East,Food,Dec 2023,89012.66
+Waikato,Hamilton East,Food,Mar 2024,79604.73
+Waikato,Hamilton East,Food,Jun 2024,55657.65
+Waikato,Hamilton East,Food,Sep 2024,77052.44
+Waikato,Hamilton East,Food,Dec 2024,72611.16
+Waikato,Hamilton East,Food,Mar 2025,72777.59
+Waikato,Hamilton East,Food,Jun 2025,63564.73
+Waikato,Hamilton East,Food,Sep 2025,65329.04
+Waikato,Hamilton East,Food,Dec 2025,74079.9
+Waikato,Hamilton East,Food,Mar 2026,77590.05
+Waikato,Hamilton East,Gas Assistance,Mar 2023,239.37
+Waikato,Hamilton East,Gas Assistance,Jun 2023,375.38
+Waikato,Hamilton East,Gas Assistance,Sep 2023,0
+Waikato,Hamilton East,Gas Assistance,Dec 2023,0
+Waikato,Hamilton East,Gas Assistance,Mar 2024,0
+Waikato,Hamilton East,Gas Assistance,Jun 2024,0
+Waikato,Hamilton East,Gas Assistance,Sep 2024,498.49
+Waikato,Hamilton East,Gas Assistance,Dec 2024,0
+Waikato,Hamilton East,Gas Assistance,Mar 2025,188.36
+Waikato,Hamilton East,Gas Assistance,Jun 2025,0
+Waikato,Hamilton East,Gas Assistance,Sep 2025,409.06
+Waikato,Hamilton East,Gas Assistance,Dec 2025,1715.97
+Waikato,Hamilton East,Gas Assistance,Mar 2026,658.69
+Waikato,Hamilton East,Stranded Travel - Petrol,Mar 2023,2940
+Waikato,Hamilton East,Stranded Travel - Petrol,Jun 2023,2090
+Waikato,Hamilton East,Stranded Travel - Petrol,Sep 2023,1510
+Waikato,Hamilton East,Stranded Travel - Petrol,Dec 2023,2525
+Waikato,Hamilton East,Stranded Travel - Petrol,Mar 2024,1420
+Waikato,Hamilton East,Stranded Travel - Petrol,Jun 2024,425
+Waikato,Hamilton East,Stranded Travel - Petrol,Sep 2024,1365
+Waikato,Hamilton East,Stranded Travel - Petrol,Dec 2024,1980
+Waikato,Hamilton East,Stranded Travel - Petrol,Mar 2025,1130
+Waikato,Hamilton East,Stranded Travel - Petrol,Jun 2025,620
+Waikato,Hamilton East,Stranded Travel - Petrol,Sep 2025,1080
+Waikato,Hamilton East,Stranded Travel - Petrol,Dec 2025,1510
+Waikato,Hamilton East,Stranded Travel - Petrol,Mar 2026,880
+Waikato,Hamilton East,All hardship,Mar 2023,2952457.7
+Waikato,Hamilton East,All hardship,Jun 2023,2704891.24
+Waikato,Hamilton East,All hardship,Sep 2023,2299247.1
+Waikato,Hamilton East,All hardship,Dec 2023,1531196.87
+Waikato,Hamilton East,All hardship,Mar 2024,958927.43
+Waikato,Hamilton East,All hardship,Jun 2024,747492.75
+Waikato,Hamilton East,All hardship,Sep 2024,795716.76
+Waikato,Hamilton East,All hardship,Dec 2024,734767.27
+Waikato,Hamilton East,All hardship,Mar 2025,756784.69
+Waikato,Hamilton East,All hardship,Jun 2025,795005.22
+Waikato,Hamilton East,All hardship,Sep 2025,798332.01
+Waikato,Hamilton East,All hardship,Dec 2025,759044.22
+Waikato,Hamilton East,All hardship,Mar 2026,784159.44
+Waikato,Huntly,Electricity Assistance,Mar 2023,5881.21
+Waikato,Huntly,Electricity Assistance,Jun 2023,4242.24
+Waikato,Huntly,Electricity Assistance,Sep 2023,19455.87
+Waikato,Huntly,Electricity Assistance,Dec 2023,27264.27
+Waikato,Huntly,Electricity Assistance,Mar 2024,14042.73
+Waikato,Huntly,Electricity Assistance,Jun 2024,6781.19
+Waikato,Huntly,Electricity Assistance,Sep 2024,13361.98
+Waikato,Huntly,Electricity Assistance,Dec 2024,12566.49
+Waikato,Huntly,Electricity Assistance,Mar 2025,9748.88
+Waikato,Huntly,Electricity Assistance,Jun 2025,7805.68
+Waikato,Huntly,Electricity Assistance,Sep 2025,19855.42
+Waikato,Huntly,Electricity Assistance,Dec 2025,23684.84
+Waikato,Huntly,Electricity Assistance,Mar 2026,20686.15
+Waikato,Huntly,Emergency Housing,Mar 2023,485634
+Waikato,Huntly,Emergency Housing,Jun 2023,297212.44
+Waikato,Huntly,Emergency Housing,Sep 2023,172075
+Waikato,Huntly,Emergency Housing,Dec 2023,88741
+Waikato,Huntly,Emergency Housing,Mar 2024,161641.9
+Waikato,Huntly,Emergency Housing,Jun 2024,62920
+Waikato,Huntly,Emergency Housing,Sep 2024,43278
+Waikato,Huntly,Emergency Housing,Dec 2024,41720
+Waikato,Huntly,Emergency Housing,Mar 2025,38480
+Waikato,Huntly,Emergency Housing,Jun 2025,25524
+Waikato,Huntly,Emergency Housing,Sep 2025,44654
+Waikato,Huntly,Emergency Housing,Dec 2025,77965
+Waikato,Huntly,Emergency Housing,Mar 2026,49420
+Waikato,Huntly,Food,Mar 2023,49377.43
+Waikato,Huntly,Food,Jun 2023,39159.14
+Waikato,Huntly,Food,Sep 2023,57421.58
+Waikato,Huntly,Food,Dec 2023,45376.47
+Waikato,Huntly,Food,Mar 2024,48830.62
+Waikato,Huntly,Food,Jun 2024,44927.57
+Waikato,Huntly,Food,Sep 2024,49594.64
+Waikato,Huntly,Food,Dec 2024,52848
+Waikato,Huntly,Food,Mar 2025,57992.13
+Waikato,Huntly,Food,Jun 2025,52113.92
+Waikato,Huntly,Food,Sep 2025,53770.53
+Waikato,Huntly,Food,Dec 2025,71428.06
+Waikato,Huntly,Food,Mar 2026,73510.82
+Waikato,Huntly,Gas Assistance,Mar 2023,392.04
+Waikato,Huntly,Gas Assistance,Jun 2023,0
+Waikato,Huntly,Gas Assistance,Sep 2023,1033.66
+Waikato,Huntly,Gas Assistance,Dec 2023,469.1
+Waikato,Huntly,Gas Assistance,Mar 2024,586.25
+Waikato,Huntly,Gas Assistance,Jun 2024,444.5
+Waikato,Huntly,Gas Assistance,Sep 2024,600.49
+Waikato,Huntly,Gas Assistance,Dec 2024,0
+Waikato,Huntly,Gas Assistance,Mar 2025,376.9
+Waikato,Huntly,Gas Assistance,Jun 2025,0
+Waikato,Huntly,Gas Assistance,Sep 2025,0
+Waikato,Huntly,Gas Assistance,Dec 2025,0
+Waikato,Huntly,Gas Assistance,Mar 2026,48
+Waikato,Huntly,Stranded Travel - Petrol,Mar 2023,1500
+Waikato,Huntly,Stranded Travel - Petrol,Jun 2023,710
+Waikato,Huntly,Stranded Travel - Petrol,Sep 2023,2410
+Waikato,Huntly,Stranded Travel - Petrol,Dec 2023,1115
+Waikato,Huntly,Stranded Travel - Petrol,Mar 2024,1290
+Waikato,Huntly,Stranded Travel - Petrol,Jun 2024,1170
+Waikato,Huntly,Stranded Travel - Petrol,Sep 2024,1160
+Waikato,Huntly,Stranded Travel - Petrol,Dec 2024,860
+Waikato,Huntly,Stranded Travel - Petrol,Mar 2025,655
+Waikato,Huntly,Stranded Travel - Petrol,Jun 2025,330
+Waikato,Huntly,Stranded Travel - Petrol,Sep 2025,1023.2
+Waikato,Huntly,Stranded Travel - Petrol,Dec 2025,1255
+Waikato,Huntly,Stranded Travel - Petrol,Mar 2026,1930
+Waikato,Huntly,All hardship,Mar 2023,956914.27
+Waikato,Huntly,All hardship,Jun 2023,797742.56
+Waikato,Huntly,All hardship,Sep 2023,827694.24
+Waikato,Huntly,All hardship,Dec 2023,559071.13
+Waikato,Huntly,All hardship,Mar 2024,573856.47
+Waikato,Huntly,All hardship,Jun 2024,469985.44
+Waikato,Huntly,All hardship,Sep 2024,486934.49
+Waikato,Huntly,All hardship,Dec 2024,474258
+Waikato,Huntly,All hardship,Mar 2025,454030.62
+Waikato,Huntly,All hardship,Jun 2025,491779.66
+Waikato,Huntly,All hardship,Sep 2025,552305.64
+Waikato,Huntly,All hardship,Dec 2025,765161.92
+Waikato,Huntly,All hardship,Mar 2026,678681.07
+Waikato,Kirikiriroa,Electricity Assistance,Mar 2023,12139.36
+Waikato,Kirikiriroa,Electricity Assistance,Jun 2023,16810.31
+Waikato,Kirikiriroa,Electricity Assistance,Sep 2023,51604.79
+Waikato,Kirikiriroa,Electricity Assistance,Dec 2023,45551.63
+Waikato,Kirikiriroa,Electricity Assistance,Mar 2024,48862.21
+Waikato,Kirikiriroa,Electricity Assistance,Jun 2024,21878.54
+Waikato,Kirikiriroa,Electricity Assistance,Sep 2024,44901.5
+Waikato,Kirikiriroa,Electricity Assistance,Dec 2024,49867.43
+Waikato,Kirikiriroa,Electricity Assistance,Mar 2025,61814.04
+Waikato,Kirikiriroa,Electricity Assistance,Jun 2025,41761.68
+Waikato,Kirikiriroa,Electricity Assistance,Sep 2025,71724.78
+Waikato,Kirikiriroa,Electricity Assistance,Dec 2025,60192.54
+Waikato,Kirikiriroa,Electricity Assistance,Mar 2026,64070.64
+Waikato,Kirikiriroa,Emergency Housing,Mar 2023,19773944.58
+Waikato,Kirikiriroa,Emergency Housing,Jun 2023,18863988.83
+Waikato,Kirikiriroa,Emergency Housing,Sep 2023,19003738.15
+Waikato,Kirikiriroa,Emergency Housing,Dec 2023,16632379.44
+Waikato,Kirikiriroa,Emergency Housing,Mar 2024,15881010.12
+Waikato,Kirikiriroa,Emergency Housing,Jun 2024,16289048.01
+Waikato,Kirikiriroa,Emergency Housing,Sep 2024,11060683.34
+Waikato,Kirikiriroa,Emergency Housing,Dec 2024,5036909
+Waikato,Kirikiriroa,Emergency Housing,Mar 2025,3012349
+Waikato,Kirikiriroa,Emergency Housing,Jun 2025,3011879.4
+Waikato,Kirikiriroa,Emergency Housing,Sep 2025,2922724
+Waikato,Kirikiriroa,Emergency Housing,Dec 2025,3198078.96
+Waikato,Kirikiriroa,Emergency Housing,Mar 2026,2496671.1
+Waikato,Kirikiriroa,Food,Mar 2023,201745.83
+Waikato,Kirikiriroa,Food,Jun 2023,193965.57
+Waikato,Kirikiriroa,Food,Sep 2023,276996.47
+Waikato,Kirikiriroa,Food,Dec 2023,235640.53
+Waikato,Kirikiriroa,Food,Mar 2024,203460.62
+Waikato,Kirikiriroa,Food,Jun 2024,160252.54
+Waikato,Kirikiriroa,Food,Sep 2024,167367.74
+Waikato,Kirikiriroa,Food,Dec 2024,158073.86
+Waikato,Kirikiriroa,Food,Mar 2025,152312.68
+Waikato,Kirikiriroa,Food,Jun 2025,173921.57
+Waikato,Kirikiriroa,Food,Sep 2025,183657.68
+Waikato,Kirikiriroa,Food,Dec 2025,173444.6
+Waikato,Kirikiriroa,Food,Mar 2026,168395.84
+Waikato,Kirikiriroa,Gas Assistance,Mar 2023,0
+Waikato,Kirikiriroa,Gas Assistance,Jun 2023,30
+Waikato,Kirikiriroa,Gas Assistance,Sep 2023,2020.9
+Waikato,Kirikiriroa,Gas Assistance,Dec 2023,147.11
+Waikato,Kirikiriroa,Gas Assistance,Mar 2024,565.16
+Waikato,Kirikiriroa,Gas Assistance,Jun 2024,0
+Waikato,Kirikiriroa,Gas Assistance,Sep 2024,94.24
+Waikato,Kirikiriroa,Gas Assistance,Dec 2024,510.25
+Waikato,Kirikiriroa,Gas Assistance,Mar 2025,0
+Waikato,Kirikiriroa,Gas Assistance,Jun 2025,265.25
+Waikato,Kirikiriroa,Gas Assistance,Sep 2025,0
+Waikato,Kirikiriroa,Gas Assistance,Dec 2025,104.74
+Waikato,Kirikiriroa,Gas Assistance,Mar 2026,0
+Waikato,Kirikiriroa,Stranded Travel - Petrol,Mar 2023,12842
+Waikato,Kirikiriroa,Stranded Travel - Petrol,Jun 2023,6946
+Waikato,Kirikiriroa,Stranded Travel - Petrol,Sep 2023,10346.22
+Waikato,Kirikiriroa,Stranded Travel - Petrol,Dec 2023,12439
+Waikato,Kirikiriroa,Stranded Travel - Petrol,Mar 2024,7738.71
+Waikato,Kirikiriroa,Stranded Travel - Petrol,Jun 2024,7030
+Waikato,Kirikiriroa,Stranded Travel - Petrol,Sep 2024,8445
+Waikato,Kirikiriroa,Stranded Travel - Petrol,Dec 2024,7293
+Waikato,Kirikiriroa,Stranded Travel - Petrol,Mar 2025,6205
+Waikato,Kirikiriroa,Stranded Travel - Petrol,Jun 2025,5640
+Waikato,Kirikiriroa,Stranded Travel - Petrol,Sep 2025,7300
+Waikato,Kirikiriroa,Stranded Travel - Petrol,Dec 2025,6540
+Waikato,Kirikiriroa,Stranded Travel - Petrol,Mar 2026,6405
+Waikato,Kirikiriroa,All hardship,Mar 2023,21430850.88
+Waikato,Kirikiriroa,All hardship,Jun 2023,20479807.95
+Waikato,Kirikiriroa,All hardship,Sep 2023,21408677.32
+Waikato,Kirikiriroa,All hardship,Dec 2023,18656992.49
+Waikato,Kirikiriroa,All hardship,Mar 2024,17744389.77
+Waikato,Kirikiriroa,All hardship,Jun 2024,18337262.99
+Waikato,Kirikiriroa,All hardship,Sep 2024,13601698.4
+Waikato,Kirikiriroa,All hardship,Dec 2024,7336176.89
+Waikato,Kirikiriroa,All hardship,Mar 2025,5076796.49
+Waikato,Kirikiriroa,All hardship,Jun 2025,5263980.07
+Waikato,Kirikiriroa,All hardship,Sep 2025,5213011.96
+Waikato,Kirikiriroa,All hardship,Dec 2025,5377221.96
+Waikato,Kirikiriroa,All hardship,Mar 2026,4610467.2
+Waikato,Matamata,Electricity Assistance,Mar 2023,1864.58
+Waikato,Matamata,Electricity Assistance,Jun 2023,4836.97
+Waikato,Matamata,Electricity Assistance,Sep 2023,11916.84
+Waikato,Matamata,Electricity Assistance,Dec 2023,25330.97
+Waikato,Matamata,Electricity Assistance,Mar 2024,12838.85
+Waikato,Matamata,Electricity Assistance,Jun 2024,6150.32
+Waikato,Matamata,Electricity Assistance,Sep 2024,13063.43
+Waikato,Matamata,Electricity Assistance,Dec 2024,17146.95
+Waikato,Matamata,Electricity Assistance,Mar 2025,10335.68
+Waikato,Matamata,Electricity Assistance,Jun 2025,6052.59
+Waikato,Matamata,Electricity Assistance,Sep 2025,15787.83
+Waikato,Matamata,Electricity Assistance,Dec 2025,7027.71
+Waikato,Matamata,Electricity Assistance,Mar 2026,7155.93
+Waikato,Matamata,Emergency Housing,Mar 2023,30238
+Waikato,Matamata,Emergency Housing,Jun 2023,210042
+Waikato,Matamata,Emergency Housing,Sep 2023,235245
+Waikato,Matamata,Emergency Housing,Dec 2023,119719
+Waikato,Matamata,Emergency Housing,Mar 2024,106960
+Waikato,Matamata,Emergency Housing,Jun 2024,171257
+Waikato,Matamata,Emergency Housing,Sep 2024,104710
+Waikato,Matamata,Emergency Housing,Dec 2024,25523
+Waikato,Matamata,Emergency Housing,Mar 2025,4830
+Waikato,Matamata,Emergency Housing,Jun 2025,11011
+Waikato,Matamata,Emergency Housing,Sep 2025,44663
+Waikato,Matamata,Emergency Housing,Dec 2025,24174
+Waikato,Matamata,Emergency Housing,Mar 2026,27209
+Waikato,Matamata,Food,Mar 2023,11465.21
+Waikato,Matamata,Food,Jun 2023,21014.29
+Waikato,Matamata,Food,Sep 2023,27552.79
+Waikato,Matamata,Food,Dec 2023,28486.73
+Waikato,Matamata,Food,Mar 2024,31527.71
+Waikato,Matamata,Food,Jun 2024,25492.97
+Waikato,Matamata,Food,Sep 2024,26887.63
+Waikato,Matamata,Food,Dec 2024,26749.1
+Waikato,Matamata,Food,Mar 2025,27976.03
+Waikato,Matamata,Food,Jun 2025,21293.59
+Waikato,Matamata,Food,Sep 2025,25791.55
+Waikato,Matamata,Food,Dec 2025,28181.37
+Waikato,Matamata,Food,Mar 2026,29728.78
+Waikato,Matamata,Gas Assistance,Mar 2023,370
+Waikato,Matamata,Gas Assistance,Jun 2023,0
+Waikato,Matamata,Gas Assistance,Sep 2023,0
+Waikato,Matamata,Gas Assistance,Dec 2023,145
+Waikato,Matamata,Gas Assistance,Mar 2024,0
+Waikato,Matamata,Gas Assistance,Jun 2024,44
+Waikato,Matamata,Gas Assistance,Sep 2024,0
+Waikato,Matamata,Gas Assistance,Dec 2024,0
+Waikato,Matamata,Gas Assistance,Mar 2025,423.47
+Waikato,Matamata,Gas Assistance,Jun 2025,181.65
+Waikato,Matamata,Gas Assistance,Sep 2025,328
+Waikato,Matamata,Gas Assistance,Dec 2025,328
+Waikato,Matamata,Gas Assistance,Mar 2026,150
+Waikato,Matamata,Stranded Travel - Petrol,Mar 2023,360
+Waikato,Matamata,Stranded Travel - Petrol,Jun 2023,1230
+Waikato,Matamata,Stranded Travel - Petrol,Sep 2023,1805
+Waikato,Matamata,Stranded Travel - Petrol,Dec 2023,2230
+Waikato,Matamata,Stranded Travel - Petrol,Mar 2024,2668.72
+Waikato,Matamata,Stranded Travel - Petrol,Jun 2024,1435
+Waikato,Matamata,Stranded Travel - Petrol,Sep 2024,2470
+Waikato,Matamata,Stranded Travel - Petrol,Dec 2024,1755
+Waikato,Matamata,Stranded Travel - Petrol,Mar 2025,2435
+Waikato,Matamata,Stranded Travel - Petrol,Jun 2025,2385
+Waikato,Matamata,Stranded Travel - Petrol,Sep 2025,2480
+Waikato,Matamata,Stranded Travel - Petrol,Dec 2025,2100
+Waikato,Matamata,Stranded Travel - Petrol,Mar 2026,2180
+Waikato,Matamata,All hardship,Mar 2023,210289.8
+Waikato,Matamata,All hardship,Jun 2023,530907.1
+Waikato,Matamata,All hardship,Sep 2023,715400.64
+Waikato,Matamata,All hardship,Dec 2023,589097.15
+Waikato,Matamata,All hardship,Mar 2024,476736
+Waikato,Matamata,All hardship,Jun 2024,589736.64
+Waikato,Matamata,All hardship,Sep 2024,545126.93
+Waikato,Matamata,All hardship,Dec 2024,430975.88
+Waikato,Matamata,All hardship,Mar 2025,441300.18
+Waikato,Matamata,All hardship,Jun 2025,328919.27
+Waikato,Matamata,All hardship,Sep 2025,480977.81
+Waikato,Matamata,All hardship,Dec 2025,401176.17
+Waikato,Matamata,All hardship,Mar 2026,403726.7
+Waikato,Morrinsville,Electricity Assistance,Mar 2023,4184.35
+Waikato,Morrinsville,Electricity Assistance,Jun 2023,3357.86
+Waikato,Morrinsville,Electricity Assistance,Sep 2023,1920.29
+Waikato,Morrinsville,Electricity Assistance,Dec 2023,1331.26
+Waikato,Morrinsville,Electricity Assistance,Mar 2024,5313.87
+Waikato,Morrinsville,Electricity Assistance,Jun 2024,1482.86
+Waikato,Morrinsville,Electricity Assistance,Sep 2024,5693.21
+Waikato,Morrinsville,Electricity Assistance,Dec 2024,5611.25
+Waikato,Morrinsville,Electricity Assistance,Mar 2025,1947.5
+Waikato,Morrinsville,Electricity Assistance,Jun 2025,2910.44
+Waikato,Morrinsville,Electricity Assistance,Sep 2025,4529.06
+Waikato,Morrinsville,Electricity Assistance,Dec 2025,2551.39
+Waikato,Morrinsville,Electricity Assistance,Mar 2026,2366.64
+Waikato,Morrinsville,Emergency Housing,Mar 2023,82026
+Waikato,Morrinsville,Emergency Housing,Jun 2023,86163
+Waikato,Morrinsville,Emergency Housing,Sep 2023,36661
+Waikato,Morrinsville,Emergency Housing,Dec 2023,19024
+Waikato,Morrinsville,Emergency Housing,Mar 2024,40449
+Waikato,Morrinsville,Emergency Housing,Jun 2024,33306
+Waikato,Morrinsville,Emergency Housing,Sep 2024,19012
+Waikato,Morrinsville,Emergency Housing,Dec 2024,21157
+Waikato,Morrinsville,Emergency Housing,Mar 2025,13489
+Waikato,Morrinsville,Emergency Housing,Jun 2025,31461
+Waikato,Morrinsville,Emergency Housing,Sep 2025,14489
+Waikato,Morrinsville,Emergency Housing,Dec 2025,5593
+Waikato,Morrinsville,Emergency Housing,Mar 2026,0
+Waikato,Morrinsville,Food,Mar 2023,20566.4
+Waikato,Morrinsville,Food,Jun 2023,9571.75
+Waikato,Morrinsville,Food,Sep 2023,9540
+Waikato,Morrinsville,Food,Dec 2023,6174.72
+Waikato,Morrinsville,Food,Mar 2024,6897.95
+Waikato,Morrinsville,Food,Jun 2024,7965
+Waikato,Morrinsville,Food,Sep 2024,8082.06
+Waikato,Morrinsville,Food,Dec 2024,8957
+Waikato,Morrinsville,Food,Mar 2025,9534.27
+Waikato,Morrinsville,Food,Jun 2025,13035.08
+Waikato,Morrinsville,Food,Sep 2025,8334.17
+Waikato,Morrinsville,Food,Dec 2025,10315
+Waikato,Morrinsville,Food,Mar 2026,9038
+Waikato,Morrinsville,Gas Assistance,Mar 2023,0
+Waikato,Morrinsville,Gas Assistance,Jun 2023,122.01
+Waikato,Morrinsville,Gas Assistance,Sep 2023,0
+Waikato,Morrinsville,Gas Assistance,Dec 2023,37.26
+Waikato,Morrinsville,Gas Assistance,Mar 2024,0
+Waikato,Morrinsville,Gas Assistance,Jun 2024,0
+Waikato,Morrinsville,Gas Assistance,Sep 2024,0
+Waikato,Morrinsville,Gas Assistance,Dec 2024,0
+Waikato,Morrinsville,Gas Assistance,Mar 2025,0
+Waikato,Morrinsville,Gas Assistance,Jun 2025,0
+Waikato,Morrinsville,Gas Assistance,Sep 2025,0
+Waikato,Morrinsville,Gas Assistance,Dec 2025,597.97
+Waikato,Morrinsville,Gas Assistance,Mar 2026,0
+Waikato,Morrinsville,Stranded Travel - Petrol,Mar 2023,731
+Waikato,Morrinsville,Stranded Travel - Petrol,Jun 2023,80
+Waikato,Morrinsville,Stranded Travel - Petrol,Sep 2023,340
+Waikato,Morrinsville,Stranded Travel - Petrol,Dec 2023,110
+Waikato,Morrinsville,Stranded Travel - Petrol,Mar 2024,280
+Waikato,Morrinsville,Stranded Travel - Petrol,Jun 2024,101
+Waikato,Morrinsville,Stranded Travel - Petrol,Sep 2024,60
+Waikato,Morrinsville,Stranded Travel - Petrol,Dec 2024,83.6
+Waikato,Morrinsville,Stranded Travel - Petrol,Mar 2025,180
+Waikato,Morrinsville,Stranded Travel - Petrol,Jun 2025,325
+Waikato,Morrinsville,Stranded Travel - Petrol,Sep 2025,52.8
+Waikato,Morrinsville,Stranded Travel - Petrol,Dec 2025,123.2
+Waikato,Morrinsville,Stranded Travel - Petrol,Mar 2026,410
+Waikato,Morrinsville,All hardship,Mar 2023,401686.73
+Waikato,Morrinsville,All hardship,Jun 2023,282901.54
+Waikato,Morrinsville,All hardship,Sep 2023,218601.61
+Waikato,Morrinsville,All hardship,Dec 2023,137776.55
+Waikato,Morrinsville,All hardship,Mar 2024,241648.71
+Waikato,Morrinsville,All hardship,Jun 2024,227104.31
+Waikato,Morrinsville,All hardship,Sep 2024,205741.47
+Waikato,Morrinsville,All hardship,Dec 2024,284163.4
+Waikato,Morrinsville,All hardship,Mar 2025,207000.65
+Waikato,Morrinsville,All hardship,Jun 2025,289612.49
+Waikato,Morrinsville,All hardship,Sep 2025,260890.47
+Waikato,Morrinsville,All hardship,Dec 2025,225218.69
+Waikato,Morrinsville,All hardship,Mar 2026,196532.57
+Waikato,Ngaruawahia,Electricity Assistance,Mar 2023,14442.43
+Waikato,Ngaruawahia,Electricity Assistance,Jun 2023,4200.06
+Waikato,Ngaruawahia,Electricity Assistance,Sep 2023,17080.8
+Waikato,Ngaruawahia,Electricity Assistance,Dec 2023,15443.68
+Waikato,Ngaruawahia,Electricity Assistance,Mar 2024,13525.8
+Waikato,Ngaruawahia,Electricity Assistance,Jun 2024,3486.11
+Waikato,Ngaruawahia,Electricity Assistance,Sep 2024,17375.01
+Waikato,Ngaruawahia,Electricity Assistance,Dec 2024,9409.07
+Waikato,Ngaruawahia,Electricity Assistance,Mar 2025,17278.12
+Waikato,Ngaruawahia,Electricity Assistance,Jun 2025,4792.99
+Waikato,Ngaruawahia,Electricity Assistance,Sep 2025,14222.55
+Waikato,Ngaruawahia,Electricity Assistance,Dec 2025,13673
+Waikato,Ngaruawahia,Electricity Assistance,Mar 2026,3157.52
+Waikato,Ngaruawahia,Emergency Housing,Mar 2023,90073
+Waikato,Ngaruawahia,Emergency Housing,Jun 2023,34349
+Waikato,Ngaruawahia,Emergency Housing,Sep 2023,42490
+Waikato,Ngaruawahia,Emergency Housing,Dec 2023,2884
+Waikato,Ngaruawahia,Emergency Housing,Mar 2024,15260
+Waikato,Ngaruawahia,Emergency Housing,Jun 2024,8400
+Waikato,Ngaruawahia,Emergency Housing,Sep 2024,28385
+Waikato,Ngaruawahia,Emergency Housing,Dec 2024,20300
+Waikato,Ngaruawahia,Emergency Housing,Mar 2025,5320
+Waikato,Ngaruawahia,Emergency Housing,Jun 2025,10374
+Waikato,Ngaruawahia,Emergency Housing,Sep 2025,0
+Waikato,Ngaruawahia,Emergency Housing,Dec 2025,2626
+Waikato,Ngaruawahia,Emergency Housing,Mar 2026,5040
+Waikato,Ngaruawahia,Food,Mar 2023,50805.58
+Waikato,Ngaruawahia,Food,Jun 2023,28249
+Waikato,Ngaruawahia,Food,Sep 2023,31294
+Waikato,Ngaruawahia,Food,Dec 2023,42469.08
+Waikato,Ngaruawahia,Food,Mar 2024,37765.76
+Waikato,Ngaruawahia,Food,Jun 2024,26099
+Waikato,Ngaruawahia,Food,Sep 2024,29197.14
+Waikato,Ngaruawahia,Food,Dec 2024,40952.98
+Waikato,Ngaruawahia,Food,Mar 2025,36664.48
+Waikato,Ngaruawahia,Food,Jun 2025,28936.86
+Waikato,Ngaruawahia,Food,Sep 2025,32968.51
+Waikato,Ngaruawahia,Food,Dec 2025,40763.4
+Waikato,Ngaruawahia,Food,Mar 2026,31822.8
+Waikato,Ngaruawahia,Gas Assistance,Mar 2023,0
+Waikato,Ngaruawahia,Gas Assistance,Jun 2023,0
+Waikato,Ngaruawahia,Gas Assistance,Sep 2023,70
+Waikato,Ngaruawahia,Gas Assistance,Dec 2023,663.72
+Waikato,Ngaruawahia,Gas Assistance,Mar 2024,0
+Waikato,Ngaruawahia,Gas Assistance,Jun 2024,0
+Waikato,Ngaruawahia,Gas Assistance,Sep 2024,0
+Waikato,Ngaruawahia,Gas Assistance,Dec 2024,164.75
+Waikato,Ngaruawahia,Gas Assistance,Mar 2025,445.93
+Waikato,Ngaruawahia,Gas Assistance,Jun 2025,0
+Waikato,Ngaruawahia,Gas Assistance,Sep 2025,0
+Waikato,Ngaruawahia,Gas Assistance,Dec 2025,0
+Waikato,Ngaruawahia,Gas Assistance,Mar 2026,48
+Waikato,Ngaruawahia,Stranded Travel - Petrol,Mar 2023,1359.77
+Waikato,Ngaruawahia,Stranded Travel - Petrol,Jun 2023,570
+Waikato,Ngaruawahia,Stranded Travel - Petrol,Sep 2023,250
+Waikato,Ngaruawahia,Stranded Travel - Petrol,Dec 2023,560
+Waikato,Ngaruawahia,Stranded Travel - Petrol,Mar 2024,678.8
+Waikato,Ngaruawahia,Stranded Travel - Petrol,Jun 2024,280
+Waikato,Ngaruawahia,Stranded Travel - Petrol,Sep 2024,925.8
+Waikato,Ngaruawahia,Stranded Travel - Petrol,Dec 2024,884
+Waikato,Ngaruawahia,Stranded Travel - Petrol,Mar 2025,1730
+Waikato,Ngaruawahia,Stranded Travel - Petrol,Jun 2025,965
+Waikato,Ngaruawahia,Stranded Travel - Petrol,Sep 2025,350
+Waikato,Ngaruawahia,Stranded Travel - Petrol,Dec 2025,405.6
+Waikato,Ngaruawahia,Stranded Travel - Petrol,Mar 2026,250
+Waikato,Ngaruawahia,All hardship,Mar 2023,476285.58
+Waikato,Ngaruawahia,All hardship,Jun 2023,299264.87
+Waikato,Ngaruawahia,All hardship,Sep 2023,337807.68
+Waikato,Ngaruawahia,All hardship,Dec 2023,441901.3
+Waikato,Ngaruawahia,All hardship,Mar 2024,429480.79
+Waikato,Ngaruawahia,All hardship,Jun 2024,361656.55
+Waikato,Ngaruawahia,All hardship,Sep 2024,391960.13
+Waikato,Ngaruawahia,All hardship,Dec 2024,436830.22
+Waikato,Ngaruawahia,All hardship,Mar 2025,490473.16
+Waikato,Ngaruawahia,All hardship,Jun 2025,456141.3
+Waikato,Ngaruawahia,All hardship,Sep 2025,386334.92
+Waikato,Ngaruawahia,All hardship,Dec 2025,384931.66
+Waikato,Ngaruawahia,All hardship,Mar 2026,371635.39
+Waikato,Paeroa,Electricity Assistance,Mar 2023,3091.56
+Waikato,Paeroa,Electricity Assistance,Jun 2023,5707.1
+Waikato,Paeroa,Electricity Assistance,Sep 2023,10171.45
+Waikato,Paeroa,Electricity Assistance,Dec 2023,9805.98
+Waikato,Paeroa,Electricity Assistance,Mar 2024,4399.33
+Waikato,Paeroa,Electricity Assistance,Jun 2024,1062.06
+Waikato,Paeroa,Electricity Assistance,Sep 2024,8948.86
+Waikato,Paeroa,Electricity Assistance,Dec 2024,3431.79
+Waikato,Paeroa,Electricity Assistance,Mar 2025,6406.34
+Waikato,Paeroa,Electricity Assistance,Jun 2025,3840.98
+Waikato,Paeroa,Electricity Assistance,Sep 2025,5246.27
+Waikato,Paeroa,Electricity Assistance,Dec 2025,12586.24
+Waikato,Paeroa,Electricity Assistance,Mar 2026,6760.82
+Waikato,Paeroa,Emergency Housing,Mar 2023,8757
+Waikato,Paeroa,Emergency Housing,Jun 2023,9275
+Waikato,Paeroa,Emergency Housing,Sep 2023,13460
+Waikato,Paeroa,Emergency Housing,Dec 2023,26470
+Waikato,Paeroa,Emergency Housing,Mar 2024,1300
+Waikato,Paeroa,Emergency Housing,Jun 2024,35869
+Waikato,Paeroa,Emergency Housing,Sep 2024,64017
+Waikato,Paeroa,Emergency Housing,Dec 2024,36126
+Waikato,Paeroa,Emergency Housing,Mar 2025,10690
+Waikato,Paeroa,Emergency Housing,Jun 2025,28285
+Waikato,Paeroa,Emergency Housing,Sep 2025,28765
+Waikato,Paeroa,Emergency Housing,Dec 2025,19845
+Waikato,Paeroa,Emergency Housing,Mar 2026,19825
+Waikato,Paeroa,Food,Mar 2023,11325
+Waikato,Paeroa,Food,Jun 2023,13381.7
+Waikato,Paeroa,Food,Sep 2023,16751.68
+Waikato,Paeroa,Food,Dec 2023,19979.45
+Waikato,Paeroa,Food,Mar 2024,17440
+Waikato,Paeroa,Food,Jun 2024,11890
+Waikato,Paeroa,Food,Sep 2024,18724.05
+Waikato,Paeroa,Food,Dec 2024,12942.18
+Waikato,Paeroa,Food,Mar 2025,12455
+Waikato,Paeroa,Food,Jun 2025,12001.61
+Waikato,Paeroa,Food,Sep 2025,11598.4
+Waikato,Paeroa,Food,Dec 2025,12953.24
+Waikato,Paeroa,Food,Mar 2026,16872.55
+Waikato,Paeroa,Gas Assistance,Mar 2023,0
+Waikato,Paeroa,Gas Assistance,Jun 2023,825.69
+Waikato,Paeroa,Gas Assistance,Sep 2023,0
+Waikato,Paeroa,Gas Assistance,Dec 2023,0
+Waikato,Paeroa,Gas Assistance,Mar 2024,261.16
+Waikato,Paeroa,Gas Assistance,Jun 2024,296.34
+Waikato,Paeroa,Gas Assistance,Sep 2024,99.99
+Waikato,Paeroa,Gas Assistance,Dec 2024,92.01
+Waikato,Paeroa,Gas Assistance,Mar 2025,0
+Waikato,Paeroa,Gas Assistance,Jun 2025,0
+Waikato,Paeroa,Gas Assistance,Sep 2025,0
+Waikato,Paeroa,Gas Assistance,Dec 2025,0
+Waikato,Paeroa,Gas Assistance,Mar 2026,0
+Waikato,Paeroa,Stranded Travel - Petrol,Mar 2023,1660
+Waikato,Paeroa,Stranded Travel - Petrol,Jun 2023,920
+Waikato,Paeroa,Stranded Travel - Petrol,Sep 2023,2320
+Waikato,Paeroa,Stranded Travel - Petrol,Dec 2023,950
+Waikato,Paeroa,Stranded Travel - Petrol,Mar 2024,2325
+Waikato,Paeroa,Stranded Travel - Petrol,Jun 2024,1410
+Waikato,Paeroa,Stranded Travel - Petrol,Sep 2024,1770
+Waikato,Paeroa,Stranded Travel - Petrol,Dec 2024,1480
+Waikato,Paeroa,Stranded Travel - Petrol,Mar 2025,1150
+Waikato,Paeroa,Stranded Travel - Petrol,Jun 2025,1350
+Waikato,Paeroa,Stranded Travel - Petrol,Sep 2025,1080
+Waikato,Paeroa,Stranded Travel - Petrol,Dec 2025,1470
+Waikato,Paeroa,Stranded Travel - Petrol,Mar 2026,2370
+Waikato,Paeroa,All hardship,Mar 2023,177203.83
+Waikato,Paeroa,All hardship,Jun 2023,284731.82
+Waikato,Paeroa,All hardship,Sep 2023,253293.91
+Waikato,Paeroa,All hardship,Dec 2023,239665.14
+Waikato,Paeroa,All hardship,Mar 2024,212339.98
+Waikato,Paeroa,All hardship,Jun 2024,206185.51
+Waikato,Paeroa,All hardship,Sep 2024,290631.44
+Waikato,Paeroa,All hardship,Dec 2024,227416.3
+Waikato,Paeroa,All hardship,Mar 2025,150141.97
+Waikato,Paeroa,All hardship,Jun 2025,174006.8
+Waikato,Paeroa,All hardship,Sep 2025,180892.33
+Waikato,Paeroa,All hardship,Dec 2025,230051.29
+Waikato,Paeroa,All hardship,Mar 2026,295954.84
+Waikato,Te Awamutu,Electricity Assistance,Mar 2023,7337.91
+Waikato,Te Awamutu,Electricity Assistance,Jun 2023,6427.93
+Waikato,Te Awamutu,Electricity Assistance,Sep 2023,16574.22
+Waikato,Te Awamutu,Electricity Assistance,Dec 2023,13130.75
+Waikato,Te Awamutu,Electricity Assistance,Mar 2024,13281.68
+Waikato,Te Awamutu,Electricity Assistance,Jun 2024,6673.69
+Waikato,Te Awamutu,Electricity Assistance,Sep 2024,14349.97
+Waikato,Te Awamutu,Electricity Assistance,Dec 2024,14169.5
+Waikato,Te Awamutu,Electricity Assistance,Mar 2025,9553.39
+Waikato,Te Awamutu,Electricity Assistance,Jun 2025,2005.13
+Waikato,Te Awamutu,Electricity Assistance,Sep 2025,19978.03
+Waikato,Te Awamutu,Electricity Assistance,Dec 2025,7513.24
+Waikato,Te Awamutu,Electricity Assistance,Mar 2026,14658.29
+Waikato,Te Awamutu,Emergency Housing,Mar 2023,920337.28
+Waikato,Te Awamutu,Emergency Housing,Jun 2023,498814.86
+Waikato,Te Awamutu,Emergency Housing,Sep 2023,204931
+Waikato,Te Awamutu,Emergency Housing,Dec 2023,110811
+Waikato,Te Awamutu,Emergency Housing,Mar 2024,38794
+Waikato,Te Awamutu,Emergency Housing,Jun 2024,50974
+Waikato,Te Awamutu,Emergency Housing,Sep 2024,14700
+Waikato,Te Awamutu,Emergency Housing,Dec 2024,22316
+Waikato,Te Awamutu,Emergency Housing,Mar 2025,16503
+Waikato,Te Awamutu,Emergency Housing,Jun 2025,3710
+Waikato,Te Awamutu,Emergency Housing,Sep 2025,9401
+Waikato,Te Awamutu,Emergency Housing,Dec 2025,8610
+Waikato,Te Awamutu,Emergency Housing,Mar 2026,8652
+Waikato,Te Awamutu,Food,Mar 2023,69098.44
+Waikato,Te Awamutu,Food,Jun 2023,50035.28
+Waikato,Te Awamutu,Food,Sep 2023,44302.38
+Waikato,Te Awamutu,Food,Dec 2023,44674.11
+Waikato,Te Awamutu,Food,Mar 2024,38585.19
+Waikato,Te Awamutu,Food,Jun 2024,34356.65
+Waikato,Te Awamutu,Food,Sep 2024,35974.44
+Waikato,Te Awamutu,Food,Dec 2024,36653.37
+Waikato,Te Awamutu,Food,Mar 2025,43305.72
+Waikato,Te Awamutu,Food,Jun 2025,23406.17
+Waikato,Te Awamutu,Food,Sep 2025,24736.96
+Waikato,Te Awamutu,Food,Dec 2025,27117
+Waikato,Te Awamutu,Food,Mar 2026,23833.05
+Waikato,Te Awamutu,Gas Assistance,Mar 2023,251.34
+Waikato,Te Awamutu,Gas Assistance,Jun 2023,50
+Waikato,Te Awamutu,Gas Assistance,Sep 2023,0
+Waikato,Te Awamutu,Gas Assistance,Dec 2023,0
+Waikato,Te Awamutu,Gas Assistance,Mar 2024,0
+Waikato,Te Awamutu,Gas Assistance,Jun 2024,0
+Waikato,Te Awamutu,Gas Assistance,Sep 2024,280
+Waikato,Te Awamutu,Gas Assistance,Dec 2024,0
+Waikato,Te Awamutu,Gas Assistance,Mar 2025,0
+Waikato,Te Awamutu,Gas Assistance,Jun 2025,20
+Waikato,Te Awamutu,Gas Assistance,Sep 2025,463
+Waikato,Te Awamutu,Gas Assistance,Dec 2025,0
+Waikato,Te Awamutu,Gas Assistance,Mar 2026,0
+Waikato,Te Awamutu,Stranded Travel - Petrol,Mar 2023,1810
+Waikato,Te Awamutu,Stranded Travel - Petrol,Jun 2023,1030
+Waikato,Te Awamutu,Stranded Travel - Petrol,Sep 2023,860
+Waikato,Te Awamutu,Stranded Travel - Petrol,Dec 2023,1395
+Waikato,Te Awamutu,Stranded Travel - Petrol,Mar 2024,1190
+Waikato,Te Awamutu,Stranded Travel - Petrol,Jun 2024,1485
+Waikato,Te Awamutu,Stranded Travel - Petrol,Sep 2024,710
+Waikato,Te Awamutu,Stranded Travel - Petrol,Dec 2024,870
+Waikato,Te Awamutu,Stranded Travel - Petrol,Mar 2025,1210
+Waikato,Te Awamutu,Stranded Travel - Petrol,Jun 2025,240
+Waikato,Te Awamutu,Stranded Travel - Petrol,Sep 2025,40
+Waikato,Te Awamutu,Stranded Travel - Petrol,Dec 2025,310
+Waikato,Te Awamutu,Stranded Travel - Petrol,Mar 2026,790
+Waikato,Te Awamutu,All hardship,Mar 2023,1517745.4
+Waikato,Te Awamutu,All hardship,Jun 2023,1039962.11
+Waikato,Te Awamutu,All hardship,Sep 2023,654032.27
+Waikato,Te Awamutu,All hardship,Dec 2023,627314.37
+Waikato,Te Awamutu,All hardship,Mar 2024,454315.3
+Waikato,Te Awamutu,All hardship,Jun 2024,503338.76
+Waikato,Te Awamutu,All hardship,Sep 2024,522726.49
+Waikato,Te Awamutu,All hardship,Dec 2024,484643.59
+Waikato,Te Awamutu,All hardship,Mar 2025,608305.35
+Waikato,Te Awamutu,All hardship,Jun 2025,366008.62
+Waikato,Te Awamutu,All hardship,Sep 2025,471941.75
+Waikato,Te Awamutu,All hardship,Dec 2025,421495.53
+Waikato,Te Awamutu,All hardship,Mar 2026,433468.15
+Waikato,Thames,Electricity Assistance,Mar 2023,3378.81
+Waikato,Thames,Electricity Assistance,Jun 2023,3705.41
+Waikato,Thames,Electricity Assistance,Sep 2023,4057.65
+Waikato,Thames,Electricity Assistance,Dec 2023,7195.89
+Waikato,Thames,Electricity Assistance,Mar 2024,4014.46
+Waikato,Thames,Electricity Assistance,Jun 2024,3119.14
+Waikato,Thames,Electricity Assistance,Sep 2024,2935.51
+Waikato,Thames,Electricity Assistance,Dec 2024,1685.1
+Waikato,Thames,Electricity Assistance,Mar 2025,2074.22
+Waikato,Thames,Electricity Assistance,Jun 2025,2661.69
+Waikato,Thames,Electricity Assistance,Sep 2025,9681.46
+Waikato,Thames,Electricity Assistance,Dec 2025,4876.21
+Waikato,Thames,Electricity Assistance,Mar 2026,4631.12
+Waikato,Thames,Emergency Housing,Mar 2023,7494
+Waikato,Thames,Emergency Housing,Jun 2023,15423
+Waikato,Thames,Emergency Housing,Sep 2023,15274
+Waikato,Thames,Emergency Housing,Dec 2023,9432
+Waikato,Thames,Emergency Housing,Mar 2024,21175
+Waikato,Thames,Emergency Housing,Jun 2024,11298
+Waikato,Thames,Emergency Housing,Sep 2024,10635
+Waikato,Thames,Emergency Housing,Dec 2024,5128
+Waikato,Thames,Emergency Housing,Mar 2025,0
+Waikato,Thames,Emergency Housing,Jun 2025,2450
+Waikato,Thames,Emergency Housing,Sep 2025,3998.26
+Waikato,Thames,Emergency Housing,Dec 2025,2310
+Waikato,Thames,Emergency Housing,Mar 2026,0
+Waikato,Thames,Food,Mar 2023,29783.23
+Waikato,Thames,Food,Jun 2023,20428.78
+Waikato,Thames,Food,Sep 2023,21289.08
+Waikato,Thames,Food,Dec 2023,15075.56
+Waikato,Thames,Food,Mar 2024,14965.13
+Waikato,Thames,Food,Jun 2024,7469
+Waikato,Thames,Food,Sep 2024,7733.03
+Waikato,Thames,Food,Dec 2024,7403.74
+Waikato,Thames,Food,Mar 2025,7248.77
+Waikato,Thames,Food,Jun 2025,6710.25
+Waikato,Thames,Food,Sep 2025,9239
+Waikato,Thames,Food,Dec 2025,8193
+Waikato,Thames,Food,Mar 2026,6213.37
+Waikato,Thames,Gas Assistance,Mar 2023,0
+Waikato,Thames,Gas Assistance,Jun 2023,0
+Waikato,Thames,Gas Assistance,Sep 2023,0
+Waikato,Thames,Gas Assistance,Dec 2023,0
+Waikato,Thames,Gas Assistance,Mar 2024,0
+Waikato,Thames,Gas Assistance,Jun 2024,0
+Waikato,Thames,Gas Assistance,Sep 2024,0
+Waikato,Thames,Gas Assistance,Dec 2024,274.95
+Waikato,Thames,Gas Assistance,Mar 2025,0
+Waikato,Thames,Gas Assistance,Jun 2025,0
+Waikato,Thames,Gas Assistance,Sep 2025,0
+Waikato,Thames,Gas Assistance,Dec 2025,0
+Waikato,Thames,Gas Assistance,Mar 2026,0
+Waikato,Thames,Stranded Travel - Petrol,Mar 2023,195
+Waikato,Thames,Stranded Travel - Petrol,Jun 2023,0
+Waikato,Thames,Stranded Travel - Petrol,Sep 2023,180
+Waikato,Thames,Stranded Travel - Petrol,Dec 2023,60
+Waikato,Thames,Stranded Travel - Petrol,Mar 2024,215
+Waikato,Thames,Stranded Travel - Petrol,Jun 2024,110
+Waikato,Thames,Stranded Travel - Petrol,Sep 2024,140
+Waikato,Thames,Stranded Travel - Petrol,Dec 2024,100
+Waikato,Thames,Stranded Travel - Petrol,Mar 2025,0
+Waikato,Thames,Stranded Travel - Petrol,Jun 2025,175
+Waikato,Thames,Stranded Travel - Petrol,Sep 2025,120
+Waikato,Thames,Stranded Travel - Petrol,Dec 2025,290
+Waikato,Thames,Stranded Travel - Petrol,Mar 2026,210
+Waikato,Thames,All hardship,Mar 2023,386631.88
+Waikato,Thames,All hardship,Jun 2023,297474.01
+Waikato,Thames,All hardship,Sep 2023,329243.96
+Waikato,Thames,All hardship,Dec 2023,218833.09
+Waikato,Thames,All hardship,Mar 2024,235714.59
+Waikato,Thames,All hardship,Jun 2024,192104.4
+Waikato,Thames,All hardship,Sep 2024,206725.78
+Waikato,Thames,All hardship,Dec 2024,176422.11
+Waikato,Thames,All hardship,Mar 2025,166858.99
+Waikato,Thames,All hardship,Jun 2025,207068.86
+Waikato,Thames,All hardship,Sep 2025,207010.37
+Waikato,Thames,All hardship,Dec 2025,173826.8
+Waikato,Thames,All hardship,Mar 2026,167813.08
+Waikato,Waihi,Electricity Assistance,Mar 2023,8560.15
+Waikato,Waihi,Electricity Assistance,Jun 2023,3790.96
+Waikato,Waihi,Electricity Assistance,Sep 2023,3905.19
+Waikato,Waihi,Electricity Assistance,Dec 2023,6658.46
+Waikato,Waihi,Electricity Assistance,Mar 2024,6129.42
+Waikato,Waihi,Electricity Assistance,Jun 2024,2519.64
+Waikato,Waihi,Electricity Assistance,Sep 2024,2501.36
+Waikato,Waihi,Electricity Assistance,Dec 2024,1094.02
+Waikato,Waihi,Electricity Assistance,Mar 2025,2585.9
+Waikato,Waihi,Electricity Assistance,Jun 2025,977.75
+Waikato,Waihi,Electricity Assistance,Sep 2025,3776.71
+Waikato,Waihi,Electricity Assistance,Dec 2025,1478.92
+Waikato,Waihi,Electricity Assistance,Mar 2026,1422.79
+Waikato,Waihi,Emergency Housing,Mar 2023,312669.8
+Waikato,Waihi,Emergency Housing,Jun 2023,237446
+Waikato,Waihi,Emergency Housing,Sep 2023,178359
+Waikato,Waihi,Emergency Housing,Dec 2023,128122
+Waikato,Waihi,Emergency Housing,Mar 2024,65560
+Waikato,Waihi,Emergency Housing,Jun 2024,21678
+Waikato,Waihi,Emergency Housing,Sep 2024,0
+Waikato,Waihi,Emergency Housing,Dec 2024,3850
+Waikato,Waihi,Emergency Housing,Mar 2025,0
+Waikato,Waihi,Emergency Housing,Jun 2025,2450
+Waikato,Waihi,Emergency Housing,Sep 2025,0
+Waikato,Waihi,Emergency Housing,Dec 2025,0
+Waikato,Waihi,Emergency Housing,Mar 2026,0
+Waikato,Waihi,Food,Mar 2023,18645.61
+Waikato,Waihi,Food,Jun 2023,13738.9
+Waikato,Waihi,Food,Sep 2023,13645.82
+Waikato,Waihi,Food,Dec 2023,12001.33
+Waikato,Waihi,Food,Mar 2024,11185.05
+Waikato,Waihi,Food,Jun 2024,7722
+Waikato,Waihi,Food,Sep 2024,6583.75
+Waikato,Waihi,Food,Dec 2024,8302.38
+Waikato,Waihi,Food,Mar 2025,9566.76
+Waikato,Waihi,Food,Jun 2025,7836.32
+Waikato,Waihi,Food,Sep 2025,8237.29
+Waikato,Waihi,Food,Dec 2025,6556.87
+Waikato,Waihi,Food,Mar 2026,7033.38
+Waikato,Waihi,Gas Assistance,Mar 2023,0
+Waikato,Waihi,Gas Assistance,Jun 2023,20
+Waikato,Waihi,Gas Assistance,Sep 2023,396.8
+Waikato,Waihi,Gas Assistance,Dec 2023,0
+Waikato,Waihi,Gas Assistance,Mar 2024,0
+Waikato,Waihi,Gas Assistance,Jun 2024,0
+Waikato,Waihi,Gas Assistance,Sep 2024,0
+Waikato,Waihi,Gas Assistance,Dec 2024,0
+Waikato,Waihi,Gas Assistance,Mar 2025,0
+Waikato,Waihi,Gas Assistance,Jun 2025,0
+Waikato,Waihi,Gas Assistance,Sep 2025,60
+Waikato,Waihi,Gas Assistance,Dec 2025,0
+Waikato,Waihi,Gas Assistance,Mar 2026,0
+Waikato,Waihi,Stranded Travel - Petrol,Mar 2023,1020
+Waikato,Waihi,Stranded Travel - Petrol,Jun 2023,520
+Waikato,Waihi,Stranded Travel - Petrol,Sep 2023,195
+Waikato,Waihi,Stranded Travel - Petrol,Dec 2023,130
+Waikato,Waihi,Stranded Travel - Petrol,Mar 2024,140
+Waikato,Waihi,Stranded Travel - Petrol,Jun 2024,220
+Waikato,Waihi,Stranded Travel - Petrol,Sep 2024,60
+Waikato,Waihi,Stranded Travel - Petrol,Dec 2024,200
+Waikato,Waihi,Stranded Travel - Petrol,Mar 2025,240
+Waikato,Waihi,Stranded Travel - Petrol,Jun 2025,130
+Waikato,Waihi,Stranded Travel - Petrol,Sep 2025,125
+Waikato,Waihi,Stranded Travel - Petrol,Dec 2025,50
+Waikato,Waihi,Stranded Travel - Petrol,Mar 2026,155
+Waikato,Waihi,All hardship,Mar 2023,719955.83
+Waikato,Waihi,All hardship,Jun 2023,608713.87
+Waikato,Waihi,All hardship,Sep 2023,460647.94
+Waikato,Waihi,All hardship,Dec 2023,372613.12
+Waikato,Waihi,All hardship,Mar 2024,248640.74
+Waikato,Waihi,All hardship,Jun 2024,228229.13
+Waikato,Waihi,All hardship,Sep 2024,151844.86
+Waikato,Waihi,All hardship,Dec 2024,155186.77
+Waikato,Waihi,All hardship,Mar 2025,203720.33
+Waikato,Waihi,All hardship,Jun 2025,213944.71
+Waikato,Waihi,All hardship,Sep 2025,209889.91
+Waikato,Waihi,All hardship,Dec 2025,140061.81
+Waikato,Waihi,All hardship,Mar 2026,147376.04
