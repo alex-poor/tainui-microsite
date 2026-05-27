@@ -7,6 +7,7 @@ const FILES = [
   ['tlaAmounts',  '02_tla_amounts.csv'],
   ['regGrants',   '03_region_grants.csv'],
   ['regAmounts',  '04_region_amounts.csv'],
+  ['population',  '05_population.csv'],
 ];
 
 function parseCsv(text) {
