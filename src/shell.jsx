@@ -1,14 +1,7 @@
 const { useState: useStateS, useEffect: useEffectS } = React;
 
-const CHAPTERS = [
-  { id: 'opener',   label: 'Opener' },
-  { id: 'scale',    label: '01 · Scale' },
-  { id: 'types',    label: '02 · Types' },
-  { id: 'where',    label: '03 · Where' },
-  { id: 'trend',    label: '04 · Trend' },
-  { id: 'centres',  label: '05 · Centres' },
-  { id: 'closer',   label: 'Closer' },
-];
+const CHAPTER_IDS = ['opener', 'scale', 'types', 'where', 'trend', 'centres', 'closer'];
+const CHAPTER_KEYS = ['ch_opener', 'ch_scale', 'ch_types', 'ch_where', 'ch_trend', 'ch_centres', 'ch_closer'];
 
 function ScrollProgress() {
   const [w, setW] = useStateS(0);
@@ -32,10 +25,10 @@ function ScrollProgress() {
 
 function ChapterRail() {
   const [active, setActive] = useStateS('opener');
+  const t = useT();
 
   useEffectS(() => {
-    const ids = CHAPTERS.map(c => c.id);
-    const els = ids.map(id => document.getElementById(id)).filter(Boolean);
+    const els = CHAPTER_IDS.map(id => document.getElementById(id)).filter(Boolean);
     if (!els.length) return;
     const obs = new IntersectionObserver((entries) => {
       let best = null;
@@ -52,21 +45,40 @@ function ChapterRail() {
 
   return (
     <nav className="chapter-rail" aria-label="Chapters">
-      {CHAPTERS.map(c => (
+      {CHAPTER_IDS.map((id, i) => (
         <button
-          key={c.id}
-          className={`dot ${active === c.id ? 'active' : ''}`}
+          key={id}
+          className={`dot ${active === id ? 'active' : ''}`}
           onClick={() => {
-            const el = document.getElementById(c.id);
+            const el = document.getElementById(id);
             if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
           }}
-          aria-label={c.label}
+          aria-label={t(CHAPTER_KEYS[i])}
         >
-          <span className="label">{c.label}</span>
+          <span className="label">{t(CHAPTER_KEYS[i])}</span>
         </button>
       ))}
     </nav>
   );
 }
 
-Object.assign(window, { ScrollProgress, ChapterRail });
+function LangPicker() {
+  const { lang, setLang } = useLang();
+  const t = useT();
+
+  return (
+    <div className="lang-picker">
+      <button
+        className={lang === 'mi' ? 'active' : ''}
+        onClick={() => setLang('mi')}
+      >{t('lang_mi')}</button>
+      <span className="lang-sep">·</span>
+      <button
+        className={lang === 'en' ? 'active' : ''}
+        onClick={() => setLang('en')}
+      >{t('lang_en')}</button>
+    </div>
+  );
+}
+
+Object.assign(window, { ScrollProgress, ChapterRail, LangPicker });

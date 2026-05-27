@@ -1,4 +1,7 @@
 function TitleCard() {
+  const t = useT();
+  const lines = t('title_main').split('\n');
+
   return (
     <section id="opener" className="section" style={{
       minHeight: '100vh', display: 'flex', flexDirection: 'column',
@@ -14,48 +17,34 @@ function TitleCard() {
         <div style={{ display: 'flex', alignItems: 'center', gap: 14 }}>
           <TainuiMark />
           <span style={{ fontWeight: 600, color: 'var(--ink-soft)', letterSpacing: '0.18em' }}>
-            Waikato-Tainui
+            {t('masthead')}
           </span>
         </div>
-        <div>Hardship in the Waikato &nbsp;·&nbsp; May 2026</div>
+        <div>{t('masthead_right')}</div>
       </header>
 
       <div className="reveal in" style={{
-        flex: 1,
-        display: 'flex',
-        flexDirection: 'column',
-        justifyContent: 'center',
-        maxWidth: 920,
+        flex: 1, display: 'flex', flexDirection: 'column',
+        justifyContent: 'center', maxWidth: 920,
       }}>
         <div className="eyebrow" style={{ marginBottom: 32 }}>
           <span className="rule" />
-          A data story
+          {t('eyebrow_story')}
         </div>
         <h1 style={{
-          fontFamily: 'var(--serif)',
-          fontWeight: 400,
-          fontSize: 'clamp(48px, 8vw, 116px)',
-          lineHeight: 0.96,
-          letterSpacing: '-0.035em',
-          color: 'var(--ink-soft)',
-          margin: '0 0 32px',
-          textWrap: 'balance',
+          fontFamily: 'var(--serif)', fontWeight: 400,
+          fontSize: 'clamp(48px, 8vw, 116px)', lineHeight: 0.96,
+          letterSpacing: '-0.035em', color: 'var(--ink-soft)',
+          margin: '0 0 32px', textWrap: 'balance',
         }}>
-          Te āhua o te<br />uaua i<br />Waikato.
+          {lines.map((line, i) => <span key={i}>{line}{i < lines.length - 1 && <br />}</span>)}
         </h1>
         <p style={{
-          fontFamily: 'var(--serif)',
-          fontWeight: 300,
-          fontSize: 'clamp(18px, 2vw, 24px)',
-          lineHeight: 1.5,
-          color: 'var(--ink)',
-          maxWidth: 640,
-          margin: 0,
-          textWrap: 'pretty',
+          fontFamily: 'var(--serif)', fontWeight: 300,
+          fontSize: 'clamp(18px, 2vw, 24px)', lineHeight: 1.5,
+          color: 'var(--ink)', maxWidth: 640, margin: 0, textWrap: 'pretty',
         }}>
-          Three years of government hardship assistance data
-          across the Waikato region. Where the need is greatest,
-          what kind of help is being sought, and how it's changing.
+          {t('title_sub')}
         </p>
       </div>
 
@@ -63,12 +52,11 @@ function TitleCard() {
         display: 'flex', alignItems: 'center', gap: 14,
         paddingTop: 32, borderTop: '1px solid var(--rule)',
         fontFamily: 'var(--sans)', fontSize: 11,
-        letterSpacing: '0.16em', textTransform: 'uppercase',
-        color: 'var(--mute)',
+        letterSpacing: '0.16em', textTransform: 'uppercase', color: 'var(--mute)',
       }}>
-        <span>Scroll to explore</span>
+        <span>{t('scroll_cue')}</span>
         <span style={{ width: 28, height: 1, background: 'var(--mute)' }} />
-        <span style={{ marginLeft: 'auto' }} className="tab-num">05 chapters</span>
+        <span style={{ marginLeft: 'auto' }} className="tab-num">{t('chapters_count')}</span>
       </div>
     </section>
   );

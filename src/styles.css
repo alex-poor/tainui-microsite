@@ -58,6 +58,40 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   transform-origin: left center;
 }
 
+.lang-picker {
+  position: fixed;
+  top: 16px;
+  right: 24px;
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--sans);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+}
+.lang-picker button {
+  appearance: none;
+  border: none;
+  background: transparent;
+  font-family: var(--sans);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  color: var(--mute);
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 3px;
+  transition: all 180ms ease;
+}
+.lang-picker button:hover { color: var(--ink-soft); }
+.lang-picker button.active {
+  font-weight: 600;
+  color: var(--ink-soft);
+  background: var(--bg-deep);
+}
+.lang-sep { color: var(--rule); }
+
 .chapter-rail {
   position: fixed;
   left: 24px;

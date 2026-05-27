@@ -1,4 +1,4 @@
-const { useEffect, useRef, useState, useMemo } = React;
+const { useEffect, useRef, useState, useMemo, useCallback } = React;
 
 const fmt = {
   big: (n) => {
@@ -86,7 +86,7 @@ function NumInline({ children }) {
 }
 
 Object.assign(window, {
-  useState, useEffect, useRef, useMemo,
+  useState, useEffect, useRef, useMemo, useCallback,
   fmt, RAMP, colorForValue, mix,
   useInView, Eyebrow, SectionFooter, NumInline,
 });
