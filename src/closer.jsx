@@ -39,6 +39,14 @@ function Closer() {
           <span>{t('closer_footer_left')}</span>
           <span>{t('closer_footer_right')}</span>
         </div>
+
+        <div style={{
+          marginTop: 32, textAlign: 'center',
+          fontFamily: 'var(--sans)', fontSize: 11, letterSpacing: '0.08em',
+          color: 'var(--mute-soft)',
+        }}>
+          {t('made_by')}
+        </div>
       </section>
     </div>
   );

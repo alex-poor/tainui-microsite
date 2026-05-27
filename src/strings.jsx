@@ -122,6 +122,7 @@ en: {
   method_coverage: 'Data spans 13 quarters from January 2023 to March 2026, covering five Waikato territorial authorities and 13 Waikato MSD service centres plus Pukekohe (Auckland Metro).',
   closer_footer_left: 'Waikato-Tainui · May 2026',
   closer_footer_right: 'Data: Ministry of Social Development',
+  made_by: 'Made by Karo',
 },
 
 mi: {
@@ -246,6 +247,7 @@ mi: {
   method_coverage: 'E 13 ngaa hauwhaa mai i Hanuere 2023 ki Maehe 2026, e koowhiri ana i ngaa mana whenua aa-rohe e rima o Waikato me ngaa taawhi ratonga 13 o Waikato me Pukekohe (Taamaki Makaurau).',
   closer_footer_left: 'Waikato-Tainui · Mei 2026',
   closer_footer_right: 'Raraunga: Te Manatuu Whakahiato Ora',
+  made_by: 'I hangaia e Karo',
 },
 
 };
