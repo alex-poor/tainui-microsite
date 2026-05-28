@@ -5,18 +5,26 @@ function Act2Types() {
 
   const WAIKATO_TLAS = new Set(['Hamilton City', 'Matamata-Piako District', 'Otorohanga District', 'Waikato District', 'Waipa District']);
   const SPECIFIC_TYPES = ['Food', 'Emergency Housing', 'Electricity Assistance', 'Stranded Travel - Petrol', 'Gas Assistance'];
+  const EARLY_QUARTERS = new Set(['Mar 2023','Jun 2023','Sep 2023','Dec 2023']);
+  const RECENT_QUARTERS = new Set(['Jun 2025','Sep 2025','Dec 2025','Mar 2026']);
 
-  const { byTypeGrants, byTypeAmount, maxGrants, maxAmount } = useMemo(() => {
+  const { byTypeGrants, byTypeAmount, maxGrants, maxAmount, earlyAmounts, recentAmounts } = useMemo(() => {
     const grantsByType = {};
     const amountsByType = {};
+    const earlyA = {};
+    const recentA = {};
     for (const tp of SPECIFIC_TYPES) {
       grantsByType[tp] = data.tlaGrants.filter(r => WAIKATO_TLAS.has(r.tla) && r.hardship_type === tp).reduce((s, r) => s + r.grants, 0);
       amountsByType[tp] = data.tlaAmounts.filter(r => WAIKATO_TLAS.has(r.tla) && r.hardship_type === tp).reduce((s, r) => s + r.amount, 0);
+      earlyA[tp] = data.tlaAmounts.filter(r => WAIKATO_TLAS.has(r.tla) && r.hardship_type === tp && EARLY_QUARTERS.has(r.quarter)).reduce((s, r) => s + r.amount, 0);
+      recentA[tp] = data.tlaAmounts.filter(r => WAIKATO_TLAS.has(r.tla) && r.hardship_type === tp && RECENT_QUARTERS.has(r.quarter)).reduce((s, r) => s + r.amount, 0);
     }
     return {
       byTypeGrants: grantsByType, byTypeAmount: amountsByType,
       maxGrants: Math.max(...Object.values(grantsByType)),
       maxAmount: Math.max(...Object.values(amountsByType)),
+      earlyAmounts: earlyA,
+      recentAmounts: recentA,
     };
   }, [data]);
 
@@ -31,6 +39,12 @@ function Act2Types() {
 
   const totalG = Object.values(byTypeGrants).reduce((a, b) => a + b, 0);
   const totalA = Object.values(byTypeAmount).reduce((a, b) => a + b, 0);
+
+  const totalEarly = Object.values(earlyAmounts).reduce((a, b) => a + b, 0);
+  const totalRecent = Object.values(recentAmounts).reduce((a, b) => a + b, 0);
+  const earlySorted = SPECIFIC_TYPES.slice().sort((a, b) => earlyAmounts[b] - earlyAmounts[a]);
+  const recentSorted = SPECIFIC_TYPES.slice().sort((a, b) => recentAmounts[b] - recentAmounts[a]);
+  const maxPeriodAmount = Math.max(...Object.values(earlyAmounts), ...Object.values(recentAmounts));
 
   return (
     <section id="types" className="section" ref={ref}>
@@ -91,6 +105,80 @@ function Act2Types() {
         </div>
         <p className="body">{t('act2_body1', { foodGrants: fmt.full(byTypeGrants['Food']) })}</p>
         <p className="body">{t('act2_body2', { housingAmount: fmt.dollarFull(byTypeAmount['Emergency Housing']) })}</p>
+      </div>
+
+      {/* Before / After comparison */}
+      <div className={`reveal ${inView ? 'in' : ''}`} style={{ marginTop: 80, paddingTop: 40, borderTop: '1px solid var(--rule)' }}>
+        <div className="caption" style={{ marginBottom: 8, fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.08em', color: 'var(--gold)' }}>
+          {t('act2_compare_eyebrow')}
+        </div>
+        <h3 style={{
+          fontFamily: 'var(--serif)', fontWeight: 400,
+          fontSize: 'clamp(28px, 4vw, 40px)', lineHeight: 1.1,
+          letterSpacing: '-0.02em', color: 'var(--ink-soft)',
+          margin: '0 0 16px', textWrap: 'balance', maxWidth: 800,
+        }}>{t('act2_compare_title')}</h3>
+        <p className="body" style={{ maxWidth: 720 }}>{t('act2_compare_lede')}</p>
+
+        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 56, marginTop: 40 }}>
+          {/* Early period (2023) */}
+          <div>
+            <div className="caption" style={{ marginBottom: 6, fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.08em' }}>
+              {t('act2_compare_early')}
+            </div>
+            <div className="caption" style={{ marginBottom: 16, color: 'var(--mute-soft)' }}>
+              {t('act2_compare_early_sub', { total: fmt.dollar(totalEarly) })}
+            </div>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+              {earlySorted.map((tp, i) => {
+                const pct = (earlyAmounts[tp] / maxPeriodAmount) * 100;
+                const shareOfPeriod = (earlyAmounts[tp] / totalEarly * 100).toFixed(0);
+                return (
+                  <div key={tp} className="bar-row" style={{ gridTemplateColumns: '120px 1fr 90px', gap: 12 }}>
+                    <span className="lbl">{t(TYPE_KEY[tp])}</span>
+                    <span className={`bar ${i === 0 ? 'accent' : ''}`}
+                      style={{ width: `${pct}%`, transition: inView ? 'width 800ms cubic-bezier(0.2,0.7,0.3,1)' : 'none', transitionDelay: `${i * 80}ms` }} />
+                    <span className="num">{fmt.dollar(earlyAmounts[tp])} · {shareOfPeriod}%</span>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+
+          {/* Recent period (post-collapse) */}
+          <div>
+            <div className="caption" style={{ marginBottom: 6, fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.08em' }}>
+              {t('act2_compare_recent')}
+            </div>
+            <div className="caption" style={{ marginBottom: 16, color: 'var(--mute-soft)' }}>
+              {t('act2_compare_recent_sub', { total: fmt.dollar(totalRecent) })}
+            </div>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+              {recentSorted.map((tp, i) => {
+                const pct = (recentAmounts[tp] / maxPeriodAmount) * 100;
+                const shareOfPeriod = (recentAmounts[tp] / totalRecent * 100).toFixed(0);
+                return (
+                  <div key={tp} className="bar-row" style={{ gridTemplateColumns: '120px 1fr 90px', gap: 12 }}>
+                    <span className="lbl">{t(TYPE_KEY[tp])}</span>
+                    <span className={`bar ${i === 0 ? 'accent' : ''}`}
+                      style={{ width: `${pct}%`, transition: inView ? 'width 800ms cubic-bezier(0.2,0.7,0.3,1)' : 'none', transitionDelay: `${i * 80}ms` }} />
+                    <span className="num">{fmt.dollar(recentAmounts[tp])} · {shareOfPeriod}%</span>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        </div>
+
+        <div className="callout" style={{ marginTop: 32 }}>
+          <b>{t('act2_compare_callout_title')}</b>
+          {t('act2_compare_callout', {
+            housingEarlyPct: (earlyAmounts['Emergency Housing'] / totalEarly * 100).toFixed(0),
+            housingRecentPct: (recentAmounts['Emergency Housing'] / totalRecent * 100).toFixed(0),
+            foodEarlyPct: (earlyAmounts['Food'] / totalEarly * 100).toFixed(0),
+            foodRecentPct: (recentAmounts['Food'] / totalRecent * 100).toFixed(0),
+          })}
+        </div>
       </div>
 
       <SectionFooter chap="02 / 05" note={t('act2_footer')} />
