@@ -2,7 +2,7 @@ window.STRINGS = {
 
 en: {
   // html
-  page_title: 'Te Āhua o te Uaua i Waikato — Waikato-Tainui',
+  page_title: 'Te Aahua o te Uaua i Waikato — Waikato-Tainui',
 
   // shell
   ch_opener: 'Opener',
@@ -21,7 +21,7 @@ en: {
   masthead: 'Waikato-Tainui',
   masthead_right: 'Hardship in the Waikato  ·  May 2026',
   eyebrow_story: 'A data story',
-  title_main: 'Te āhua o te\nuaua i\nWaikato.',
+  title_main: 'Te aahua o te\nuaua i\nWaikato.',
   title_sub: 'Three years of government hardship assistance data across the Waikato region. Where the need is greatest, what kind of help is being sought, and how it\'s changing.',
   scroll_cue: 'Scroll to explore',
   chapters_count: '05 chapters',
